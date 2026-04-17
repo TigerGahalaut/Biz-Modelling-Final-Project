@@ -153,7 +153,7 @@ GKE automatically load balances traffic across replicas.
 |---|---|
 | Nandini Chanda | nchanda |
 | Serena Gomez | serenag |
-| Ananya Gahalaut | agahala |
+| Ananya Gahalaut | agahala2 |
 | Shashank Aluru | yaluru |
 
 

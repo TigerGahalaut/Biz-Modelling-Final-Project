@@ -7,7 +7,7 @@
         "data": {
           "sourceHandle": {
             "dataType": "File",
-            "id": "File-CThkd",
+            "id": "File-dHRbV",
             "name": "message",
             "output_types": [
               "Message"
@@ -15,19 +15,19 @@
           },
           "targetHandle": {
             "fieldName": "user_background",
-            "id": "Prompt Template-gnxA5",
+            "id": "Prompt Template-cFrSq",
             "inputTypes": [
               "Message"
             ],
             "type": "str"
           }
         },
-        "id": "reactflow__edge-File-CThkd{œdataTypeœ:œFileœ,œidœ:œFile-CThkdœ,œnameœ:œmessageœ,œoutput_typesœ:[œMessageœ]}-Prompt Template-gnxA5{œfieldNameœ:œuser_backgroundœ,œidœ:œPrompt Template-gnxA5œ,œinputTypesœ:[œMessageœ],œtypeœ:œstrœ}",
+        "id": "reactflow__edge-File-dHRbV{œdataTypeœ:œFileœ,œidœ:œFile-dHRbVœ,œnameœ:œmessageœ,œoutput_typesœ:[œMessageœ]}-Prompt Template-cFrSq{œfieldNameœ:œuser_backgroundœ,œidœ:œPrompt Template-cFrSqœ,œinputTypesœ:[œMessageœ],œtypeœ:œstrœ}",
         "selected": false,
-        "source": "File-CThkd",
-        "sourceHandle": "{œdataTypeœ:œFileœ,œidœ:œFile-CThkdœ,œnameœ:œmessageœ,œoutput_typesœ:[œMessageœ]}",
-        "target": "Prompt Template-gnxA5",
-        "targetHandle": "{œfieldNameœ:œuser_backgroundœ,œidœ:œPrompt Template-gnxA5œ,œinputTypesœ:[œMessageœ],œtypeœ:œstrœ}"
+        "source": "File-dHRbV",
+        "sourceHandle": "{œdataTypeœ:œFileœ,œidœ:œFile-dHRbVœ,œnameœ:œmessageœ,œoutput_typesœ:[œMessageœ]}",
+        "target": "Prompt Template-cFrSq",
+        "targetHandle": "{œfieldNameœ:œuser_backgroundœ,œidœ:œPrompt Template-cFrSqœ,œinputTypesœ:[œMessageœ],œtypeœ:œstrœ}"
       },
       {
         "animated": false,
@@ -35,7 +35,7 @@
         "data": {
           "sourceHandle": {
             "dataType": "File",
-            "id": "File-CThkd",
+            "id": "File-dHRbV",
             "name": "message",
             "output_types": [
               "Message"
@@ -43,19 +43,19 @@
           },
           "targetHandle": {
             "fieldName": "user_background",
-            "id": "Prompt Template-U7CmM",
+            "id": "Prompt Template-27o4J",
             "inputTypes": [
               "Message"
             ],
             "type": "str"
           }
         },
-        "id": "reactflow__edge-File-CThkd{œdataTypeœ:œFileœ,œidœ:œFile-CThkdœ,œnameœ:œmessageœ,œoutput_typesœ:[œMessageœ]}-Prompt Template-U7CmM{œfieldNameœ:œuser_backgroundœ,œidœ:œPrompt Template-U7CmMœ,œinputTypesœ:[œMessageœ],œtypeœ:œstrœ}",
+        "id": "reactflow__edge-File-dHRbV{œdataTypeœ:œFileœ,œidœ:œFile-dHRbVœ,œnameœ:œmessageœ,œoutput_typesœ:[œMessageœ]}-Prompt Template-27o4J{œfieldNameœ:œuser_backgroundœ,œidœ:œPrompt Template-27o4Jœ,œinputTypesœ:[œMessageœ],œtypeœ:œstrœ}",
         "selected": false,
-        "source": "File-CThkd",
-        "sourceHandle": "{œdataTypeœ:œFileœ,œidœ:œFile-CThkdœ,œnameœ:œmessageœ,œoutput_typesœ:[œMessageœ]}",
-        "target": "Prompt Template-U7CmM",
-        "targetHandle": "{œfieldNameœ:œuser_backgroundœ,œidœ:œPrompt Template-U7CmMœ,œinputTypesœ:[œMessageœ],œtypeœ:œstrœ}"
+        "source": "File-dHRbV",
+        "sourceHandle": "{œdataTypeœ:œFileœ,œidœ:œFile-dHRbVœ,œnameœ:œmessageœ,œoutput_typesœ:[œMessageœ]}",
+        "target": "Prompt Template-27o4J",
+        "targetHandle": "{œfieldNameœ:œuser_backgroundœ,œidœ:œPrompt Template-27o4Jœ,œinputTypesœ:[œMessageœ],œtypeœ:œstrœ}"
       },
       {
         "animated": false,
@@ -63,7 +63,7 @@
         "data": {
           "sourceHandle": {
             "dataType": "File",
-            "id": "File-CThkd",
+            "id": "File-dHRbV",
             "name": "message",
             "output_types": [
               "Message"
@@ -71,19 +71,19 @@
           },
           "targetHandle": {
             "fieldName": "user_background",
-            "id": "Prompt Template-2Ohoc",
+            "id": "Prompt Template-yQk6F",
             "inputTypes": [
               "Message"
             ],
             "type": "str"
           }
         },
-        "id": "reactflow__edge-File-CThkd{œdataTypeœ:œFileœ,œidœ:œFile-CThkdœ,œnameœ:œmessageœ,œoutput_typesœ:[œMessageœ]}-Prompt Template-2Ohoc{œfieldNameœ:œuser_backgroundœ,œidœ:œPrompt Template-2Ohocœ,œinputTypesœ:[œMessageœ],œtypeœ:œstrœ}",
+        "id": "reactflow__edge-File-dHRbV{œdataTypeœ:œFileœ,œidœ:œFile-dHRbVœ,œnameœ:œmessageœ,œoutput_typesœ:[œMessageœ]}-Prompt Template-yQk6F{œfieldNameœ:œuser_backgroundœ,œidœ:œPrompt Template-yQk6Fœ,œinputTypesœ:[œMessageœ],œtypeœ:œstrœ}",
         "selected": false,
-        "source": "File-CThkd",
-        "sourceHandle": "{œdataTypeœ:œFileœ,œidœ:œFile-CThkdœ,œnameœ:œmessageœ,œoutput_typesœ:[œMessageœ]}",
-        "target": "Prompt Template-2Ohoc",
-        "targetHandle": "{œfieldNameœ:œuser_backgroundœ,œidœ:œPrompt Template-2Ohocœ,œinputTypesœ:[œMessageœ],œtypeœ:œstrœ}"
+        "source": "File-dHRbV",
+        "sourceHandle": "{œdataTypeœ:œFileœ,œidœ:œFile-dHRbVœ,œnameœ:œmessageœ,œoutput_typesœ:[œMessageœ]}",
+        "target": "Prompt Template-yQk6F",
+        "targetHandle": "{œfieldNameœ:œuser_backgroundœ,œidœ:œPrompt Template-yQk6Fœ,œinputTypesœ:[œMessageœ],œtypeœ:œstrœ}"
       },
       {
         "animated": false,
@@ -91,7 +91,7 @@
         "data": {
           "sourceHandle": {
             "dataType": "TavilySearchComponent",
-            "id": "TavilySearchComponent-9HMhp",
+            "id": "TavilySearchComponent-JsSWI",
             "name": "dataframe",
             "output_types": [
               "DataFrame"
@@ -99,7 +99,7 @@
           },
           "targetHandle": {
             "fieldName": "input_data",
-            "id": "ParserComponent-Dofpu",
+            "id": "ParserComponent-6shIO",
             "inputTypes": [
               "DataFrame",
               "Data"
@@ -107,12 +107,12 @@
             "type": "other"
           }
         },
-        "id": "reactflow__edge-TavilySearchComponent-9HMhp{œdataTypeœ:œTavilySearchComponentœ,œidœ:œTavilySearchComponent-9HMhpœ,œnameœ:œdataframeœ,œoutput_typesœ:[œDataFrameœ]}-ParserComponent-Dofpu{œfieldNameœ:œinput_dataœ,œidœ:œParserComponent-Dofpuœ,œinputTypesœ:[œDataFrameœ,œDataœ],œtypeœ:œotherœ}",
+        "id": "reactflow__edge-TavilySearchComponent-JsSWI{œdataTypeœ:œTavilySearchComponentœ,œidœ:œTavilySearchComponent-JsSWIœ,œnameœ:œdataframeœ,œoutput_typesœ:[œDataFrameœ]}-ParserComponent-6shIO{œfieldNameœ:œinput_dataœ,œidœ:œParserComponent-6shIOœ,œinputTypesœ:[œDataFrameœ,œDataœ],œtypeœ:œotherœ}",
         "selected": false,
-        "source": "TavilySearchComponent-9HMhp",
-        "sourceHandle": "{œdataTypeœ:œTavilySearchComponentœ,œidœ:œTavilySearchComponent-9HMhpœ,œnameœ:œdataframeœ,œoutput_typesœ:[œDataFrameœ]}",
-        "target": "ParserComponent-Dofpu",
-        "targetHandle": "{œfieldNameœ:œinput_dataœ,œidœ:œParserComponent-Dofpuœ,œinputTypesœ:[œDataFrameœ,œDataœ],œtypeœ:œotherœ}"
+        "source": "TavilySearchComponent-JsSWI",
+        "sourceHandle": "{œdataTypeœ:œTavilySearchComponentœ,œidœ:œTavilySearchComponent-JsSWIœ,œnameœ:œdataframeœ,œoutput_typesœ:[œDataFrameœ]}",
+        "target": "ParserComponent-6shIO",
+        "targetHandle": "{œfieldNameœ:œinput_dataœ,œidœ:œParserComponent-6shIOœ,œinputTypesœ:[œDataFrameœ,œDataœ],œtypeœ:œotherœ}"
       },
       {
         "animated": false,
@@ -120,7 +120,7 @@
         "data": {
           "sourceHandle": {
             "dataType": "File",
-            "id": "File-CThkd",
+            "id": "File-dHRbV",
             "name": "message",
             "output_types": [
               "Message"
@@ -128,19 +128,19 @@
           },
           "targetHandle": {
             "fieldName": "resume_text",
-            "id": "Prompt Template-t8zgv",
+            "id": "Prompt Template-cyaVC",
             "inputTypes": [
               "Message"
             ],
             "type": "str"
           }
         },
-        "id": "reactflow__edge-File-CThkd{œdataTypeœ:œFileœ,œidœ:œFile-CThkdœ,œnameœ:œmessageœ,œoutput_typesœ:[œMessageœ]}-Prompt Template-t8zgv{œfieldNameœ:œresume_textœ,œidœ:œPrompt Template-t8zgvœ,œinputTypesœ:[œMessageœ],œtypeœ:œstrœ}",
+        "id": "reactflow__edge-File-dHRbV{œdataTypeœ:œFileœ,œidœ:œFile-dHRbVœ,œnameœ:œmessageœ,œoutput_typesœ:[œMessageœ]}-Prompt Template-cyaVC{œfieldNameœ:œresume_textœ,œidœ:œPrompt Template-cyaVCœ,œinputTypesœ:[œMessageœ],œtypeœ:œstrœ}",
         "selected": false,
-        "source": "File-CThkd",
-        "sourceHandle": "{œdataTypeœ:œFileœ,œidœ:œFile-CThkdœ,œnameœ:œmessageœ,œoutput_typesœ:[œMessageœ]}",
-        "target": "Prompt Template-t8zgv",
-        "targetHandle": "{œfieldNameœ:œresume_textœ,œidœ:œPrompt Template-t8zgvœ,œinputTypesœ:[œMessageœ],œtypeœ:œstrœ}"
+        "source": "File-dHRbV",
+        "sourceHandle": "{œdataTypeœ:œFileœ,œidœ:œFile-dHRbVœ,œnameœ:œmessageœ,œoutput_typesœ:[œMessageœ]}",
+        "target": "Prompt Template-cyaVC",
+        "targetHandle": "{œfieldNameœ:œresume_textœ,œidœ:œPrompt Template-cyaVCœ,œinputTypesœ:[œMessageœ],œtypeœ:œstrœ}"
       },
       {
         "animated": false,
@@ -148,7 +148,7 @@
         "data": {
           "sourceHandle": {
             "dataType": "Prompt Template",
-            "id": "Prompt Template-t8zgv",
+            "id": "Prompt Template-cyaVC",
             "name": "prompt",
             "output_types": [
               "Message"
@@ -156,19 +156,19 @@
           },
           "targetHandle": {
             "fieldName": "input_value",
-            "id": "VertexAiModel-YQ1Lf",
+            "id": "VertexAiModel-fKn7x",
             "inputTypes": [
               "Message"
             ],
             "type": "str"
           }
         },
-        "id": "reactflow__edge-Prompt Template-t8zgv{œdataTypeœ:œPrompt Templateœ,œidœ:œPrompt Template-t8zgvœ,œnameœ:œpromptœ,œoutput_typesœ:[œMessageœ]}-VertexAiModel-YQ1Lf{œfieldNameœ:œinput_valueœ,œidœ:œVertexAiModel-YQ1Lfœ,œinputTypesœ:[œMessageœ],œtypeœ:œstrœ}",
+        "id": "reactflow__edge-Prompt Template-cyaVC{œdataTypeœ:œPrompt Templateœ,œidœ:œPrompt Template-cyaVCœ,œnameœ:œpromptœ,œoutput_typesœ:[œMessageœ]}-VertexAiModel-fKn7x{œfieldNameœ:œinput_valueœ,œidœ:œVertexAiModel-fKn7xœ,œinputTypesœ:[œMessageœ],œtypeœ:œstrœ}",
         "selected": false,
-        "source": "Prompt Template-t8zgv",
-        "sourceHandle": "{œdataTypeœ:œPrompt Templateœ,œidœ:œPrompt Template-t8zgvœ,œnameœ:œpromptœ,œoutput_typesœ:[œMessageœ]}",
-        "target": "VertexAiModel-YQ1Lf",
-        "targetHandle": "{œfieldNameœ:œinput_valueœ,œidœ:œVertexAiModel-YQ1Lfœ,œinputTypesœ:[œMessageœ],œtypeœ:œstrœ}"
+        "source": "Prompt Template-cyaVC",
+        "sourceHandle": "{œdataTypeœ:œPrompt Templateœ,œidœ:œPrompt Template-cyaVCœ,œnameœ:œpromptœ,œoutput_typesœ:[œMessageœ]}",
+        "target": "VertexAiModel-fKn7x",
+        "targetHandle": "{œfieldNameœ:œinput_valueœ,œidœ:œVertexAiModel-fKn7xœ,œinputTypesœ:[œMessageœ],œtypeœ:œstrœ}"
       },
       {
         "animated": false,
@@ -176,7 +176,7 @@
         "data": {
           "sourceHandle": {
             "dataType": "VertexAiModel",
-            "id": "VertexAiModel-YQ1Lf",
+            "id": "VertexAiModel-fKn7x",
             "name": "text_output",
             "output_types": [
               "Message"
@@ -184,19 +184,19 @@
           },
           "targetHandle": {
             "fieldName": "query",
-            "id": "TavilySearchComponent-9HMhp",
+            "id": "TavilySearchComponent-JsSWI",
             "inputTypes": [
               "Message"
             ],
             "type": "str"
           }
         },
-        "id": "reactflow__edge-VertexAiModel-YQ1Lf{œdataTypeœ:œVertexAiModelœ,œidœ:œVertexAiModel-YQ1Lfœ,œnameœ:œtext_outputœ,œoutput_typesœ:[œMessageœ]}-TavilySearchComponent-9HMhp{œfieldNameœ:œqueryœ,œidœ:œTavilySearchComponent-9HMhpœ,œinputTypesœ:[œMessageœ],œtypeœ:œstrœ}",
+        "id": "reactflow__edge-VertexAiModel-fKn7x{œdataTypeœ:œVertexAiModelœ,œidœ:œVertexAiModel-fKn7xœ,œnameœ:œtext_outputœ,œoutput_typesœ:[œMessageœ]}-TavilySearchComponent-JsSWI{œfieldNameœ:œqueryœ,œidœ:œTavilySearchComponent-JsSWIœ,œinputTypesœ:[œMessageœ],œtypeœ:œstrœ}",
         "selected": false,
-        "source": "VertexAiModel-YQ1Lf",
-        "sourceHandle": "{œdataTypeœ:œVertexAiModelœ,œidœ:œVertexAiModel-YQ1Lfœ,œnameœ:œtext_outputœ,œoutput_typesœ:[œMessageœ]}",
-        "target": "TavilySearchComponent-9HMhp",
-        "targetHandle": "{œfieldNameœ:œqueryœ,œidœ:œTavilySearchComponent-9HMhpœ,œinputTypesœ:[œMessageœ],œtypeœ:œstrœ}"
+        "source": "VertexAiModel-fKn7x",
+        "sourceHandle": "{œdataTypeœ:œVertexAiModelœ,œidœ:œVertexAiModel-fKn7xœ,œnameœ:œtext_outputœ,œoutput_typesœ:[œMessageœ]}",
+        "target": "TavilySearchComponent-JsSWI",
+        "targetHandle": "{œfieldNameœ:œqueryœ,œidœ:œTavilySearchComponent-JsSWIœ,œinputTypesœ:[œMessageœ],œtypeœ:œstrœ}"
       },
       {
         "animated": false,
@@ -204,7 +204,7 @@
         "data": {
           "sourceHandle": {
             "dataType": "Prompt Template",
-            "id": "Prompt Template-U7CmM",
+            "id": "Prompt Template-27o4J",
             "name": "prompt",
             "output_types": [
               "Message"
@@ -212,19 +212,19 @@
           },
           "targetHandle": {
             "fieldName": "input_value",
-            "id": "VertexAiModel-7u3Va",
+            "id": "VertexAiModel-Ei8j6",
             "inputTypes": [
               "Message"
             ],
             "type": "str"
           }
         },
-        "id": "reactflow__edge-Prompt Template-U7CmM{œdataTypeœ:œPrompt Templateœ,œidœ:œPrompt Template-U7CmMœ,œnameœ:œpromptœ,œoutput_typesœ:[œMessageœ]}-VertexAiModel-7u3Va{œfieldNameœ:œinput_valueœ,œidœ:œVertexAiModel-7u3Vaœ,œinputTypesœ:[œMessageœ],œtypeœ:œstrœ}",
+        "id": "reactflow__edge-Prompt Template-27o4J{œdataTypeœ:œPrompt Templateœ,œidœ:œPrompt Template-27o4Jœ,œnameœ:œpromptœ,œoutput_typesœ:[œMessageœ]}-VertexAiModel-Ei8j6{œfieldNameœ:œinput_valueœ,œidœ:œVertexAiModel-Ei8j6œ,œinputTypesœ:[œMessageœ],œtypeœ:œstrœ}",
         "selected": false,
-        "source": "Prompt Template-U7CmM",
-        "sourceHandle": "{œdataTypeœ:œPrompt Templateœ,œidœ:œPrompt Template-U7CmMœ,œnameœ:œpromptœ,œoutput_typesœ:[œMessageœ]}",
-        "target": "VertexAiModel-7u3Va",
-        "targetHandle": "{œfieldNameœ:œinput_valueœ,œidœ:œVertexAiModel-7u3Vaœ,œinputTypesœ:[œMessageœ],œtypeœ:œstrœ}"
+        "source": "Prompt Template-27o4J",
+        "sourceHandle": "{œdataTypeœ:œPrompt Templateœ,œidœ:œPrompt Template-27o4Jœ,œnameœ:œpromptœ,œoutput_typesœ:[œMessageœ]}",
+        "target": "VertexAiModel-Ei8j6",
+        "targetHandle": "{œfieldNameœ:œinput_valueœ,œidœ:œVertexAiModel-Ei8j6œ,œinputTypesœ:[œMessageœ],œtypeœ:œstrœ}"
       },
       {
         "animated": false,
@@ -232,7 +232,7 @@
         "data": {
           "sourceHandle": {
             "dataType": "Prompt Template",
-            "id": "Prompt Template-2Ohoc",
+            "id": "Prompt Template-yQk6F",
             "name": "prompt",
             "output_types": [
               "Message"
@@ -240,19 +240,19 @@
           },
           "targetHandle": {
             "fieldName": "input_value",
-            "id": "VertexAiModel-tNE0r",
+            "id": "VertexAiModel-fylfu",
             "inputTypes": [
               "Message"
             ],
             "type": "str"
           }
         },
-        "id": "reactflow__edge-Prompt Template-2Ohoc{œdataTypeœ:œPrompt Templateœ,œidœ:œPrompt Template-2Ohocœ,œnameœ:œpromptœ,œoutput_typesœ:[œMessageœ]}-VertexAiModel-tNE0r{œfieldNameœ:œinput_valueœ,œidœ:œVertexAiModel-tNE0rœ,œinputTypesœ:[œMessageœ],œtypeœ:œstrœ}",
+        "id": "reactflow__edge-Prompt Template-yQk6F{œdataTypeœ:œPrompt Templateœ,œidœ:œPrompt Template-yQk6Fœ,œnameœ:œpromptœ,œoutput_typesœ:[œMessageœ]}-VertexAiModel-fylfu{œfieldNameœ:œinput_valueœ,œidœ:œVertexAiModel-fylfuœ,œinputTypesœ:[œMessageœ],œtypeœ:œstrœ}",
         "selected": false,
-        "source": "Prompt Template-2Ohoc",
-        "sourceHandle": "{œdataTypeœ:œPrompt Templateœ,œidœ:œPrompt Template-2Ohocœ,œnameœ:œpromptœ,œoutput_typesœ:[œMessageœ]}",
-        "target": "VertexAiModel-tNE0r",
-        "targetHandle": "{œfieldNameœ:œinput_valueœ,œidœ:œVertexAiModel-tNE0rœ,œinputTypesœ:[œMessageœ],œtypeœ:œstrœ}"
+        "source": "Prompt Template-yQk6F",
+        "sourceHandle": "{œdataTypeœ:œPrompt Templateœ,œidœ:œPrompt Template-yQk6Fœ,œnameœ:œpromptœ,œoutput_typesœ:[œMessageœ]}",
+        "target": "VertexAiModel-fylfu",
+        "targetHandle": "{œfieldNameœ:œinput_valueœ,œidœ:œVertexAiModel-fylfuœ,œinputTypesœ:[œMessageœ],œtypeœ:œstrœ}"
       },
       {
         "animated": false,
@@ -260,7 +260,7 @@
         "data": {
           "sourceHandle": {
             "dataType": "Prompt Template",
-            "id": "Prompt Template-gnxA5",
+            "id": "Prompt Template-cFrSq",
             "name": "prompt",
             "output_types": [
               "Message"
@@ -268,19 +268,19 @@
           },
           "targetHandle": {
             "fieldName": "input_value",
-            "id": "VertexAiModel-8f3JD",
+            "id": "VertexAiModel-gGeVb",
             "inputTypes": [
               "Message"
             ],
             "type": "str"
           }
         },
-        "id": "reactflow__edge-Prompt Template-gnxA5{œdataTypeœ:œPrompt Templateœ,œidœ:œPrompt Template-gnxA5œ,œnameœ:œpromptœ,œoutput_typesœ:[œMessageœ]}-VertexAiModel-8f3JD{œfieldNameœ:œinput_valueœ,œidœ:œVertexAiModel-8f3JDœ,œinputTypesœ:[œMessageœ],œtypeœ:œstrœ}",
+        "id": "reactflow__edge-Prompt Template-cFrSq{œdataTypeœ:œPrompt Templateœ,œidœ:œPrompt Template-cFrSqœ,œnameœ:œpromptœ,œoutput_typesœ:[œMessageœ]}-VertexAiModel-gGeVb{œfieldNameœ:œinput_valueœ,œidœ:œVertexAiModel-gGeVbœ,œinputTypesœ:[œMessageœ],œtypeœ:œstrœ}",
         "selected": false,
-        "source": "Prompt Template-gnxA5",
-        "sourceHandle": "{œdataTypeœ:œPrompt Templateœ,œidœ:œPrompt Template-gnxA5œ,œnameœ:œpromptœ,œoutput_typesœ:[œMessageœ]}",
-        "target": "VertexAiModel-8f3JD",
-        "targetHandle": "{œfieldNameœ:œinput_valueœ,œidœ:œVertexAiModel-8f3JDœ,œinputTypesœ:[œMessageœ],œtypeœ:œstrœ}"
+        "source": "Prompt Template-cFrSq",
+        "sourceHandle": "{œdataTypeœ:œPrompt Templateœ,œidœ:œPrompt Template-cFrSqœ,œnameœ:œpromptœ,œoutput_typesœ:[œMessageœ]}",
+        "target": "VertexAiModel-gGeVb",
+        "targetHandle": "{œfieldNameœ:œinput_valueœ,œidœ:œVertexAiModel-gGeVbœ,œinputTypesœ:[œMessageœ],œtypeœ:œstrœ}"
       },
       {
         "animated": false,
@@ -288,7 +288,7 @@
         "data": {
           "sourceHandle": {
             "dataType": "VertexAiModel",
-            "id": "VertexAiModel-8f3JD",
+            "id": "VertexAiModel-gGeVb",
             "name": "text_output",
             "output_types": [
               "Message"
@@ -296,7 +296,7 @@
           },
           "targetHandle": {
             "fieldName": "input_value",
-            "id": "ChatOutput-5EX9M",
+            "id": "ChatOutput-QYYBz",
             "inputTypes": [
               "Data",
               "DataFrame",
@@ -305,12 +305,12 @@
             "type": "other"
           }
         },
-        "id": "reactflow__edge-VertexAiModel-8f3JD{œdataTypeœ:œVertexAiModelœ,œidœ:œVertexAiModel-8f3JDœ,œnameœ:œtext_outputœ,œoutput_typesœ:[œMessageœ]}-ChatOutput-5EX9M{œfieldNameœ:œinput_valueœ,œidœ:œChatOutput-5EX9Mœ,œinputTypesœ:[œDataœ,œDataFrameœ,œMessageœ],œtypeœ:œotherœ}",
+        "id": "reactflow__edge-VertexAiModel-gGeVb{œdataTypeœ:œVertexAiModelœ,œidœ:œVertexAiModel-gGeVbœ,œnameœ:œtext_outputœ,œoutput_typesœ:[œMessageœ]}-ChatOutput-QYYBz{œfieldNameœ:œinput_valueœ,œidœ:œChatOutput-QYYBzœ,œinputTypesœ:[œDataœ,œDataFrameœ,œMessageœ],œtypeœ:œotherœ}",
         "selected": false,
-        "source": "VertexAiModel-8f3JD",
-        "sourceHandle": "{œdataTypeœ:œVertexAiModelœ,œidœ:œVertexAiModel-8f3JDœ,œnameœ:œtext_outputœ,œoutput_typesœ:[œMessageœ]}",
-        "target": "ChatOutput-5EX9M",
-        "targetHandle": "{œfieldNameœ:œinput_valueœ,œidœ:œChatOutput-5EX9Mœ,œinputTypesœ:[œDataœ,œDataFrameœ,œMessageœ],œtypeœ:œotherœ}"
+        "source": "VertexAiModel-gGeVb",
+        "sourceHandle": "{œdataTypeœ:œVertexAiModelœ,œidœ:œVertexAiModel-gGeVbœ,œnameœ:œtext_outputœ,œoutput_typesœ:[œMessageœ]}",
+        "target": "ChatOutput-QYYBz",
+        "targetHandle": "{œfieldNameœ:œinput_valueœ,œidœ:œChatOutput-QYYBzœ,œinputTypesœ:[œDataœ,œDataFrameœ,œMessageœ],œtypeœ:œotherœ}"
       },
       {
         "animated": false,
@@ -318,7 +318,7 @@
         "data": {
           "sourceHandle": {
             "dataType": "ParserComponent",
-            "id": "ParserComponent-Dofpu",
+            "id": "ParserComponent-6shIO",
             "name": "parsed_text",
             "output_types": [
               "Message"
@@ -326,19 +326,19 @@
           },
           "targetHandle": {
             "fieldName": "tavily_results",
-            "id": "Prompt Template-xaWtQ",
+            "id": "Prompt Template-Tsa1y",
             "inputTypes": [
               "Message"
             ],
             "type": "str"
           }
         },
-        "id": "reactflow__edge-ParserComponent-Dofpu{œdataTypeœ:œParserComponentœ,œidœ:œParserComponent-Dofpuœ,œnameœ:œparsed_textœ,œoutput_typesœ:[œMessageœ]}-Prompt Template-xaWtQ{œfieldNameœ:œtavily_resultsœ,œidœ:œPrompt Template-xaWtQœ,œinputTypesœ:[œMessageœ],œtypeœ:œstrœ}",
+        "id": "reactflow__edge-ParserComponent-6shIO{œdataTypeœ:œParserComponentœ,œidœ:œParserComponent-6shIOœ,œnameœ:œparsed_textœ,œoutput_typesœ:[œMessageœ]}-Prompt Template-Tsa1y{œfieldNameœ:œtavily_resultsœ,œidœ:œPrompt Template-Tsa1yœ,œinputTypesœ:[œMessageœ],œtypeœ:œstrœ}",
         "selected": false,
-        "source": "ParserComponent-Dofpu",
-        "sourceHandle": "{œdataTypeœ:œParserComponentœ,œidœ:œParserComponent-Dofpuœ,œnameœ:œparsed_textœ,œoutput_typesœ:[œMessageœ]}",
-        "target": "Prompt Template-xaWtQ",
-        "targetHandle": "{œfieldNameœ:œtavily_resultsœ,œidœ:œPrompt Template-xaWtQœ,œinputTypesœ:[œMessageœ],œtypeœ:œstrœ}"
+        "source": "ParserComponent-6shIO",
+        "sourceHandle": "{œdataTypeœ:œParserComponentœ,œidœ:œParserComponent-6shIOœ,œnameœ:œparsed_textœ,œoutput_typesœ:[œMessageœ]}",
+        "target": "Prompt Template-Tsa1y",
+        "targetHandle": "{œfieldNameœ:œtavily_resultsœ,œidœ:œPrompt Template-Tsa1yœ,œinputTypesœ:[œMessageœ],œtypeœ:œstrœ}"
       },
       {
         "animated": false,
@@ -346,7 +346,7 @@
         "data": {
           "sourceHandle": {
             "dataType": "VertexAiModel",
-            "id": "VertexAiModel-tNE0r",
+            "id": "VertexAiModel-fylfu",
             "name": "text_output",
             "output_types": [
               "Message"
@@ -354,7 +354,7 @@
           },
           "targetHandle": {
             "fieldName": "input_value",
-            "id": "ChatOutput-3h4NR",
+            "id": "ChatOutput-r84jE",
             "inputTypes": [
               "Data",
               "DataFrame",
@@ -363,12 +363,12 @@
             "type": "other"
           }
         },
-        "id": "reactflow__edge-VertexAiModel-tNE0r{œdataTypeœ:œVertexAiModelœ,œidœ:œVertexAiModel-tNE0rœ,œnameœ:œtext_outputœ,œoutput_typesœ:[œMessageœ]}-ChatOutput-3h4NR{œfieldNameœ:œinput_valueœ,œidœ:œChatOutput-3h4NRœ,œinputTypesœ:[œDataœ,œDataFrameœ,œMessageœ],œtypeœ:œotherœ}",
+        "id": "reactflow__edge-VertexAiModel-fylfu{œdataTypeœ:œVertexAiModelœ,œidœ:œVertexAiModel-fylfuœ,œnameœ:œtext_outputœ,œoutput_typesœ:[œMessageœ]}-ChatOutput-r84jE{œfieldNameœ:œinput_valueœ,œidœ:œChatOutput-r84jEœ,œinputTypesœ:[œDataœ,œDataFrameœ,œMessageœ],œtypeœ:œotherœ}",
         "selected": false,
-        "source": "VertexAiModel-tNE0r",
-        "sourceHandle": "{œdataTypeœ:œVertexAiModelœ,œidœ:œVertexAiModel-tNE0rœ,œnameœ:œtext_outputœ,œoutput_typesœ:[œMessageœ]}",
-        "target": "ChatOutput-3h4NR",
-        "targetHandle": "{œfieldNameœ:œinput_valueœ,œidœ:œChatOutput-3h4NRœ,œinputTypesœ:[œDataœ,œDataFrameœ,œMessageœ],œtypeœ:œotherœ}"
+        "source": "VertexAiModel-fylfu",
+        "sourceHandle": "{œdataTypeœ:œVertexAiModelœ,œidœ:œVertexAiModel-fylfuœ,œnameœ:œtext_outputœ,œoutput_typesœ:[œMessageœ]}",
+        "target": "ChatOutput-r84jE",
+        "targetHandle": "{œfieldNameœ:œinput_valueœ,œidœ:œChatOutput-r84jEœ,œinputTypesœ:[œDataœ,œDataFrameœ,œMessageœ],œtypeœ:œotherœ}"
       },
       {
         "animated": false,
@@ -376,7 +376,7 @@
         "data": {
           "sourceHandle": {
             "dataType": "VertexAiModel",
-            "id": "VertexAiModel-7u3Va",
+            "id": "VertexAiModel-Ei8j6",
             "name": "text_output",
             "output_types": [
               "Message"
@@ -384,7 +384,7 @@
           },
           "targetHandle": {
             "fieldName": "input_value",
-            "id": "ChatOutput-3nn92",
+            "id": "ChatOutput-IZ5jG",
             "inputTypes": [
               "Data",
               "DataFrame",
@@ -393,12 +393,12 @@
             "type": "other"
           }
         },
-        "id": "reactflow__edge-VertexAiModel-7u3Va{œdataTypeœ:œVertexAiModelœ,œidœ:œVertexAiModel-7u3Vaœ,œnameœ:œtext_outputœ,œoutput_typesœ:[œMessageœ]}-ChatOutput-3nn92{œfieldNameœ:œinput_valueœ,œidœ:œChatOutput-3nn92œ,œinputTypesœ:[œDataœ,œDataFrameœ,œMessageœ],œtypeœ:œotherœ}",
+        "id": "reactflow__edge-VertexAiModel-Ei8j6{œdataTypeœ:œVertexAiModelœ,œidœ:œVertexAiModel-Ei8j6œ,œnameœ:œtext_outputœ,œoutput_typesœ:[œMessageœ]}-ChatOutput-IZ5jG{œfieldNameœ:œinput_valueœ,œidœ:œChatOutput-IZ5jGœ,œinputTypesœ:[œDataœ,œDataFrameœ,œMessageœ],œtypeœ:œotherœ}",
         "selected": false,
-        "source": "VertexAiModel-7u3Va",
-        "sourceHandle": "{œdataTypeœ:œVertexAiModelœ,œidœ:œVertexAiModel-7u3Vaœ,œnameœ:œtext_outputœ,œoutput_typesœ:[œMessageœ]}",
-        "target": "ChatOutput-3nn92",
-        "targetHandle": "{œfieldNameœ:œinput_valueœ,œidœ:œChatOutput-3nn92œ,œinputTypesœ:[œDataœ,œDataFrameœ,œMessageœ],œtypeœ:œotherœ}"
+        "source": "VertexAiModel-Ei8j6",
+        "sourceHandle": "{œdataTypeœ:œVertexAiModelœ,œidœ:œVertexAiModel-Ei8j6œ,œnameœ:œtext_outputœ,œoutput_typesœ:[œMessageœ]}",
+        "target": "ChatOutput-IZ5jG",
+        "targetHandle": "{œfieldNameœ:œinput_valueœ,œidœ:œChatOutput-IZ5jGœ,œinputTypesœ:[œDataœ,œDataFrameœ,œMessageœ],œtypeœ:œotherœ}"
       },
       {
         "animated": false,
@@ -406,7 +406,7 @@
         "data": {
           "sourceHandle": {
             "dataType": "TextInput",
-            "id": "TextInput-yfNnb",
+            "id": "TextInput-6nNLU",
             "name": "text",
             "output_types": [
               "Message"
@@ -414,19 +414,19 @@
           },
           "targetHandle": {
             "fieldName": "target_roles",
-            "id": "Prompt Template-t8zgv",
+            "id": "Prompt Template-cyaVC",
             "inputTypes": [
               "Message"
             ],
             "type": "str"
           }
         },
-        "id": "reactflow__edge-TextInput-yfNnb{œdataTypeœ:œTextInputœ,œidœ:œTextInput-yfNnbœ,œnameœ:œtextœ,œoutput_typesœ:[œMessageœ]}-Prompt Template-t8zgv{œfieldNameœ:œtarget_rolesœ,œidœ:œPrompt Template-t8zgvœ,œinputTypesœ:[œMessageœ],œtypeœ:œstrœ}",
+        "id": "reactflow__edge-TextInput-6nNLU{œdataTypeœ:œTextInputœ,œidœ:œTextInput-6nNLUœ,œnameœ:œtextœ,œoutput_typesœ:[œMessageœ]}-Prompt Template-cyaVC{œfieldNameœ:œtarget_rolesœ,œidœ:œPrompt Template-cyaVCœ,œinputTypesœ:[œMessageœ],œtypeœ:œstrœ}",
         "selected": false,
-        "source": "TextInput-yfNnb",
-        "sourceHandle": "{œdataTypeœ:œTextInputœ,œidœ:œTextInput-yfNnbœ,œnameœ:œtextœ,œoutput_typesœ:[œMessageœ]}",
-        "target": "Prompt Template-t8zgv",
-        "targetHandle": "{œfieldNameœ:œtarget_rolesœ,œidœ:œPrompt Template-t8zgvœ,œinputTypesœ:[œMessageœ],œtypeœ:œstrœ}"
+        "source": "TextInput-6nNLU",
+        "sourceHandle": "{œdataTypeœ:œTextInputœ,œidœ:œTextInput-6nNLUœ,œnameœ:œtextœ,œoutput_typesœ:[œMessageœ]}",
+        "target": "Prompt Template-cyaVC",
+        "targetHandle": "{œfieldNameœ:œtarget_rolesœ,œidœ:œPrompt Template-cyaVCœ,œinputTypesœ:[œMessageœ],œtypeœ:œstrœ}"
       },
       {
         "animated": false,
@@ -434,7 +434,7 @@
         "data": {
           "sourceHandle": {
             "dataType": "TextInput",
-            "id": "TextInput-yfNnb",
+            "id": "TextInput-6nNLU",
             "name": "text",
             "output_types": [
               "Message"
@@ -442,19 +442,19 @@
           },
           "targetHandle": {
             "fieldName": "target_roles",
-            "id": "Prompt Template-xaWtQ",
+            "id": "Prompt Template-Tsa1y",
             "inputTypes": [
               "Message"
             ],
             "type": "str"
           }
         },
-        "id": "reactflow__edge-TextInput-yfNnb{œdataTypeœ:œTextInputœ,œidœ:œTextInput-yfNnbœ,œnameœ:œtextœ,œoutput_typesœ:[œMessageœ]}-Prompt Template-xaWtQ{œfieldNameœ:œtarget_rolesœ,œidœ:œPrompt Template-xaWtQœ,œinputTypesœ:[œMessageœ],œtypeœ:œstrœ}",
+        "id": "reactflow__edge-TextInput-6nNLU{œdataTypeœ:œTextInputœ,œidœ:œTextInput-6nNLUœ,œnameœ:œtextœ,œoutput_typesœ:[œMessageœ]}-Prompt Template-Tsa1y{œfieldNameœ:œtarget_rolesœ,œidœ:œPrompt Template-Tsa1yœ,œinputTypesœ:[œMessageœ],œtypeœ:œstrœ}",
         "selected": false,
-        "source": "TextInput-yfNnb",
-        "sourceHandle": "{œdataTypeœ:œTextInputœ,œidœ:œTextInput-yfNnbœ,œnameœ:œtextœ,œoutput_typesœ:[œMessageœ]}",
-        "target": "Prompt Template-xaWtQ",
-        "targetHandle": "{œfieldNameœ:œtarget_rolesœ,œidœ:œPrompt Template-xaWtQœ,œinputTypesœ:[œMessageœ],œtypeœ:œstrœ}"
+        "source": "TextInput-6nNLU",
+        "sourceHandle": "{œdataTypeœ:œTextInputœ,œidœ:œTextInput-6nNLUœ,œnameœ:œtextœ,œoutput_typesœ:[œMessageœ]}",
+        "target": "Prompt Template-Tsa1y",
+        "targetHandle": "{œfieldNameœ:œtarget_rolesœ,œidœ:œPrompt Template-Tsa1yœ,œinputTypesœ:[œMessageœ],œtypeœ:œstrœ}"
       },
       {
         "animated": false,
@@ -462,7 +462,7 @@
         "data": {
           "sourceHandle": {
             "dataType": "Prompt Template",
-            "id": "Prompt Template-xaWtQ",
+            "id": "Prompt Template-Tsa1y",
             "name": "prompt",
             "output_types": [
               "Message"
@@ -470,19 +470,19 @@
           },
           "targetHandle": {
             "fieldName": "input_value",
-            "id": "VertexAiModel-v4EkD",
+            "id": "VertexAiModel-tUy6j",
             "inputTypes": [
               "Message"
             ],
             "type": "str"
           }
         },
-        "id": "reactflow__edge-Prompt Template-xaWtQ{œdataTypeœ:œPrompt Templateœ,œidœ:œPrompt Template-xaWtQœ,œnameœ:œpromptœ,œoutput_typesœ:[œMessageœ]}-VertexAiModel-v4EkD{œfieldNameœ:œinput_valueœ,œidœ:œVertexAiModel-v4EkDœ,œinputTypesœ:[œMessageœ],œtypeœ:œstrœ}",
+        "id": "reactflow__edge-Prompt Template-Tsa1y{œdataTypeœ:œPrompt Templateœ,œidœ:œPrompt Template-Tsa1yœ,œnameœ:œpromptœ,œoutput_typesœ:[œMessageœ]}-VertexAiModel-tUy6j{œfieldNameœ:œinput_valueœ,œidœ:œVertexAiModel-tUy6jœ,œinputTypesœ:[œMessageœ],œtypeœ:œstrœ}",
         "selected": false,
-        "source": "Prompt Template-xaWtQ",
-        "sourceHandle": "{œdataTypeœ:œPrompt Templateœ,œidœ:œPrompt Template-xaWtQœ,œnameœ:œpromptœ,œoutput_typesœ:[œMessageœ]}",
-        "target": "VertexAiModel-v4EkD",
-        "targetHandle": "{œfieldNameœ:œinput_valueœ,œidœ:œVertexAiModel-v4EkDœ,œinputTypesœ:[œMessageœ],œtypeœ:œstrœ}"
+        "source": "Prompt Template-Tsa1y",
+        "sourceHandle": "{œdataTypeœ:œPrompt Templateœ,œidœ:œPrompt Template-Tsa1yœ,œnameœ:œpromptœ,œoutput_typesœ:[œMessageœ]}",
+        "target": "VertexAiModel-tUy6j",
+        "targetHandle": "{œfieldNameœ:œinput_valueœ,œidœ:œVertexAiModel-tUy6jœ,œinputTypesœ:[œMessageœ],œtypeœ:œstrœ}"
       },
       {
         "animated": false,
@@ -490,7 +490,7 @@
         "data": {
           "sourceHandle": {
             "dataType": "VertexAiModel",
-            "id": "VertexAiModel-v4EkD",
+            "id": "VertexAiModel-tUy6j",
             "name": "text_output",
             "output_types": [
               "Message"
@@ -498,19 +498,19 @@
           },
           "targetHandle": {
             "fieldName": "input_text",
-            "id": "ConditionalRouter-o44oQ",
+            "id": "ConditionalRouter-JTpgL",
             "inputTypes": [
               "Message"
             ],
             "type": "str"
           }
         },
-        "id": "reactflow__edge-VertexAiModel-v4EkD{œdataTypeœ:œVertexAiModelœ,œidœ:œVertexAiModel-v4EkDœ,œnameœ:œtext_outputœ,œoutput_typesœ:[œMessageœ]}-ConditionalRouter-o44oQ{œfieldNameœ:œinput_textœ,œidœ:œConditionalRouter-o44oQœ,œinputTypesœ:[œMessageœ],œtypeœ:œstrœ}",
+        "id": "reactflow__edge-VertexAiModel-tUy6j{œdataTypeœ:œVertexAiModelœ,œidœ:œVertexAiModel-tUy6jœ,œnameœ:œtext_outputœ,œoutput_typesœ:[œMessageœ]}-ConditionalRouter-JTpgL{œfieldNameœ:œinput_textœ,œidœ:œConditionalRouter-JTpgLœ,œinputTypesœ:[œMessageœ],œtypeœ:œstrœ}",
         "selected": false,
-        "source": "VertexAiModel-v4EkD",
-        "sourceHandle": "{œdataTypeœ:œVertexAiModelœ,œidœ:œVertexAiModel-v4EkDœ,œnameœ:œtext_outputœ,œoutput_typesœ:[œMessageœ]}",
-        "target": "ConditionalRouter-o44oQ",
-        "targetHandle": "{œfieldNameœ:œinput_textœ,œidœ:œConditionalRouter-o44oQœ,œinputTypesœ:[œMessageœ],œtypeœ:œstrœ}"
+        "source": "VertexAiModel-tUy6j",
+        "sourceHandle": "{œdataTypeœ:œVertexAiModelœ,œidœ:œVertexAiModel-tUy6jœ,œnameœ:œtext_outputœ,œoutput_typesœ:[œMessageœ]}",
+        "target": "ConditionalRouter-JTpgL",
+        "targetHandle": "{œfieldNameœ:œinput_textœ,œidœ:œConditionalRouter-JTpgLœ,œinputTypesœ:[œMessageœ],œtypeœ:œstrœ}"
       },
       {
         "animated": false,
@@ -518,7 +518,7 @@
         "data": {
           "sourceHandle": {
             "dataType": "VertexAiModel",
-            "id": "VertexAiModel-v4EkD",
+            "id": "VertexAiModel-tUy6j",
             "name": "text_output",
             "output_types": [
               "Message"
@@ -526,19 +526,19 @@
           },
           "targetHandle": {
             "fieldName": "input_text",
-            "id": "ConditionalRouter-zJwFo",
+            "id": "ConditionalRouter-35Zfp",
             "inputTypes": [
               "Message"
             ],
             "type": "str"
           }
         },
-        "id": "reactflow__edge-VertexAiModel-v4EkD{œdataTypeœ:œVertexAiModelœ,œidœ:œVertexAiModel-v4EkDœ,œnameœ:œtext_outputœ,œoutput_typesœ:[œMessageœ]}-ConditionalRouter-zJwFo{œfieldNameœ:œinput_textœ,œidœ:œConditionalRouter-zJwFoœ,œinputTypesœ:[œMessageœ],œtypeœ:œstrœ}",
+        "id": "reactflow__edge-VertexAiModel-tUy6j{œdataTypeœ:œVertexAiModelœ,œidœ:œVertexAiModel-tUy6jœ,œnameœ:œtext_outputœ,œoutput_typesœ:[œMessageœ]}-ConditionalRouter-35Zfp{œfieldNameœ:œinput_textœ,œidœ:œConditionalRouter-35Zfpœ,œinputTypesœ:[œMessageœ],œtypeœ:œstrœ}",
         "selected": false,
-        "source": "VertexAiModel-v4EkD",
-        "sourceHandle": "{œdataTypeœ:œVertexAiModelœ,œidœ:œVertexAiModel-v4EkDœ,œnameœ:œtext_outputœ,œoutput_typesœ:[œMessageœ]}",
-        "target": "ConditionalRouter-zJwFo",
-        "targetHandle": "{œfieldNameœ:œinput_textœ,œidœ:œConditionalRouter-zJwFoœ,œinputTypesœ:[œMessageœ],œtypeœ:œstrœ}"
+        "source": "VertexAiModel-tUy6j",
+        "sourceHandle": "{œdataTypeœ:œVertexAiModelœ,œidœ:œVertexAiModel-tUy6jœ,œnameœ:œtext_outputœ,œoutput_typesœ:[œMessageœ]}",
+        "target": "ConditionalRouter-35Zfp",
+        "targetHandle": "{œfieldNameœ:œinput_textœ,œidœ:œConditionalRouter-35Zfpœ,œinputTypesœ:[œMessageœ],œtypeœ:œstrœ}"
       },
       {
         "animated": false,
@@ -546,7 +546,7 @@
         "data": {
           "sourceHandle": {
             "dataType": "VertexAiModel",
-            "id": "VertexAiModel-v4EkD",
+            "id": "VertexAiModel-tUy6j",
             "name": "text_output",
             "output_types": [
               "Message"
@@ -554,19 +554,19 @@
           },
           "targetHandle": {
             "fieldName": "input_text",
-            "id": "ConditionalRouter-KfMlf",
+            "id": "ConditionalRouter-4CHIa",
             "inputTypes": [
               "Message"
             ],
             "type": "str"
           }
         },
-        "id": "reactflow__edge-VertexAiModel-v4EkD{œdataTypeœ:œVertexAiModelœ,œidœ:œVertexAiModel-v4EkDœ,œnameœ:œtext_outputœ,œoutput_typesœ:[œMessageœ]}-ConditionalRouter-KfMlf{œfieldNameœ:œinput_textœ,œidœ:œConditionalRouter-KfMlfœ,œinputTypesœ:[œMessageœ],œtypeœ:œstrœ}",
+        "id": "reactflow__edge-VertexAiModel-tUy6j{œdataTypeœ:œVertexAiModelœ,œidœ:œVertexAiModel-tUy6jœ,œnameœ:œtext_outputœ,œoutput_typesœ:[œMessageœ]}-ConditionalRouter-4CHIa{œfieldNameœ:œinput_textœ,œidœ:œConditionalRouter-4CHIaœ,œinputTypesœ:[œMessageœ],œtypeœ:œstrœ}",
         "selected": false,
-        "source": "VertexAiModel-v4EkD",
-        "sourceHandle": "{œdataTypeœ:œVertexAiModelœ,œidœ:œVertexAiModel-v4EkDœ,œnameœ:œtext_outputœ,œoutput_typesœ:[œMessageœ]}",
-        "target": "ConditionalRouter-KfMlf",
-        "targetHandle": "{œfieldNameœ:œinput_textœ,œidœ:œConditionalRouter-KfMlfœ,œinputTypesœ:[œMessageœ],œtypeœ:œstrœ}"
+        "source": "VertexAiModel-tUy6j",
+        "sourceHandle": "{œdataTypeœ:œVertexAiModelœ,œidœ:œVertexAiModel-tUy6jœ,œnameœ:œtext_outputœ,œoutput_typesœ:[œMessageœ]}",
+        "target": "ConditionalRouter-4CHIa",
+        "targetHandle": "{œfieldNameœ:œinput_textœ,œidœ:œConditionalRouter-4CHIaœ,œinputTypesœ:[œMessageœ],œtypeœ:œstrœ}"
       },
       {
         "animated": false,
@@ -574,7 +574,7 @@
         "data": {
           "sourceHandle": {
             "dataType": "ConditionalRouter",
-            "id": "ConditionalRouter-o44oQ",
+            "id": "ConditionalRouter-JTpgL",
             "name": "true_result",
             "output_types": [
               "Message"
@@ -582,19 +582,19 @@
           },
           "targetHandle": {
             "fieldName": "isTrue",
-            "id": "Prompt Template-2Ohoc",
+            "id": "Prompt Template-yQk6F",
             "inputTypes": [
               "Message"
             ],
             "type": "str"
           }
         },
-        "id": "reactflow__edge-ConditionalRouter-o44oQ{œdataTypeœ:œConditionalRouterœ,œidœ:œConditionalRouter-o44oQœ,œnameœ:œtrue_resultœ,œoutput_typesœ:[œMessageœ]}-Prompt Template-2Ohoc{œfieldNameœ:œisTrueœ,œidœ:œPrompt Template-2Ohocœ,œinputTypesœ:[œMessageœ],œtypeœ:œstrœ}",
+        "id": "reactflow__edge-ConditionalRouter-JTpgL{œdataTypeœ:œConditionalRouterœ,œidœ:œConditionalRouter-JTpgLœ,œnameœ:œtrue_resultœ,œoutput_typesœ:[œMessageœ]}-Prompt Template-yQk6F{œfieldNameœ:œisTrueœ,œidœ:œPrompt Template-yQk6Fœ,œinputTypesœ:[œMessageœ],œtypeœ:œstrœ}",
         "selected": false,
-        "source": "ConditionalRouter-o44oQ",
-        "sourceHandle": "{œdataTypeœ:œConditionalRouterœ,œidœ:œConditionalRouter-o44oQœ,œnameœ:œtrue_resultœ,œoutput_typesœ:[œMessageœ]}",
-        "target": "Prompt Template-2Ohoc",
-        "targetHandle": "{œfieldNameœ:œisTrueœ,œidœ:œPrompt Template-2Ohocœ,œinputTypesœ:[œMessageœ],œtypeœ:œstrœ}"
+        "source": "ConditionalRouter-JTpgL",
+        "sourceHandle": "{œdataTypeœ:œConditionalRouterœ,œidœ:œConditionalRouter-JTpgLœ,œnameœ:œtrue_resultœ,œoutput_typesœ:[œMessageœ]}",
+        "target": "Prompt Template-yQk6F",
+        "targetHandle": "{œfieldNameœ:œisTrueœ,œidœ:œPrompt Template-yQk6Fœ,œinputTypesœ:[œMessageœ],œtypeœ:œstrœ}"
       },
       {
         "animated": false,
@@ -602,7 +602,7 @@
         "data": {
           "sourceHandle": {
             "dataType": "VertexAiModel",
-            "id": "VertexAiModel-v4EkD",
+            "id": "VertexAiModel-tUy6j",
             "name": "text_output",
             "output_types": [
               "Message"
@@ -610,19 +610,19 @@
           },
           "targetHandle": {
             "fieldName": "prospect_info",
-            "id": "Prompt Template-2Ohoc",
+            "id": "Prompt Template-yQk6F",
             "inputTypes": [
               "Message"
             ],
             "type": "str"
           }
         },
-        "id": "reactflow__edge-VertexAiModel-v4EkD{œdataTypeœ:œVertexAiModelœ,œidœ:œVertexAiModel-v4EkDœ,œnameœ:œtext_outputœ,œoutput_typesœ:[œMessageœ]}-Prompt Template-2Ohoc{œfieldNameœ:œprospect_infoœ,œidœ:œPrompt Template-2Ohocœ,œinputTypesœ:[œMessageœ],œtypeœ:œstrœ}",
+        "id": "reactflow__edge-VertexAiModel-tUy6j{œdataTypeœ:œVertexAiModelœ,œidœ:œVertexAiModel-tUy6jœ,œnameœ:œtext_outputœ,œoutput_typesœ:[œMessageœ]}-Prompt Template-yQk6F{œfieldNameœ:œprospect_infoœ,œidœ:œPrompt Template-yQk6Fœ,œinputTypesœ:[œMessageœ],œtypeœ:œstrœ}",
         "selected": false,
-        "source": "VertexAiModel-v4EkD",
-        "sourceHandle": "{œdataTypeœ:œVertexAiModelœ,œidœ:œVertexAiModel-v4EkDœ,œnameœ:œtext_outputœ,œoutput_typesœ:[œMessageœ]}",
-        "target": "Prompt Template-2Ohoc",
-        "targetHandle": "{œfieldNameœ:œprospect_infoœ,œidœ:œPrompt Template-2Ohocœ,œinputTypesœ:[œMessageœ],œtypeœ:œstrœ}"
+        "source": "VertexAiModel-tUy6j",
+        "sourceHandle": "{œdataTypeœ:œVertexAiModelœ,œidœ:œVertexAiModel-tUy6jœ,œnameœ:œtext_outputœ,œoutput_typesœ:[œMessageœ]}",
+        "target": "Prompt Template-yQk6F",
+        "targetHandle": "{œfieldNameœ:œprospect_infoœ,œidœ:œPrompt Template-yQk6Fœ,œinputTypesœ:[œMessageœ],œtypeœ:œstrœ}"
       },
       {
         "animated": false,
@@ -630,7 +630,7 @@
         "data": {
           "sourceHandle": {
             "dataType": "ConditionalRouter",
-            "id": "ConditionalRouter-zJwFo",
+            "id": "ConditionalRouter-35Zfp",
             "name": "true_result",
             "output_types": [
               "Message"
@@ -638,19 +638,19 @@
           },
           "targetHandle": {
             "fieldName": "isTrue",
-            "id": "Prompt Template-U7CmM",
+            "id": "Prompt Template-27o4J",
             "inputTypes": [
               "Message"
             ],
             "type": "str"
           }
         },
-        "id": "reactflow__edge-ConditionalRouter-zJwFo{œdataTypeœ:œConditionalRouterœ,œidœ:œConditionalRouter-zJwFoœ,œnameœ:œtrue_resultœ,œoutput_typesœ:[œMessageœ]}-Prompt Template-U7CmM{œfieldNameœ:œisTrueœ,œidœ:œPrompt Template-U7CmMœ,œinputTypesœ:[œMessageœ],œtypeœ:œstrœ}",
+        "id": "reactflow__edge-ConditionalRouter-35Zfp{œdataTypeœ:œConditionalRouterœ,œidœ:œConditionalRouter-35Zfpœ,œnameœ:œtrue_resultœ,œoutput_typesœ:[œMessageœ]}-Prompt Template-27o4J{œfieldNameœ:œisTrueœ,œidœ:œPrompt Template-27o4Jœ,œinputTypesœ:[œMessageœ],œtypeœ:œstrœ}",
         "selected": false,
-        "source": "ConditionalRouter-zJwFo",
-        "sourceHandle": "{œdataTypeœ:œConditionalRouterœ,œidœ:œConditionalRouter-zJwFoœ,œnameœ:œtrue_resultœ,œoutput_typesœ:[œMessageœ]}",
-        "target": "Prompt Template-U7CmM",
-        "targetHandle": "{œfieldNameœ:œisTrueœ,œidœ:œPrompt Template-U7CmMœ,œinputTypesœ:[œMessageœ],œtypeœ:œstrœ}"
+        "source": "ConditionalRouter-35Zfp",
+        "sourceHandle": "{œdataTypeœ:œConditionalRouterœ,œidœ:œConditionalRouter-35Zfpœ,œnameœ:œtrue_resultœ,œoutput_typesœ:[œMessageœ]}",
+        "target": "Prompt Template-27o4J",
+        "targetHandle": "{œfieldNameœ:œisTrueœ,œidœ:œPrompt Template-27o4Jœ,œinputTypesœ:[œMessageœ],œtypeœ:œstrœ}"
       },
       {
         "animated": false,
@@ -658,7 +658,7 @@
         "data": {
           "sourceHandle": {
             "dataType": "ConditionalRouter",
-            "id": "ConditionalRouter-KfMlf",
+            "id": "ConditionalRouter-4CHIa",
             "name": "true_result",
             "output_types": [
               "Message"
@@ -666,19 +666,19 @@
           },
           "targetHandle": {
             "fieldName": "isTrue",
-            "id": "Prompt Template-gnxA5",
+            "id": "Prompt Template-cFrSq",
             "inputTypes": [
               "Message"
             ],
             "type": "str"
           }
         },
-        "id": "reactflow__edge-ConditionalRouter-KfMlf{œdataTypeœ:œConditionalRouterœ,œidœ:œConditionalRouter-KfMlfœ,œnameœ:œtrue_resultœ,œoutput_typesœ:[œMessageœ]}-Prompt Template-gnxA5{œfieldNameœ:œisTrueœ,œidœ:œPrompt Template-gnxA5œ,œinputTypesœ:[œMessageœ],œtypeœ:œstrœ}",
+        "id": "reactflow__edge-ConditionalRouter-4CHIa{œdataTypeœ:œConditionalRouterœ,œidœ:œConditionalRouter-4CHIaœ,œnameœ:œtrue_resultœ,œoutput_typesœ:[œMessageœ]}-Prompt Template-cFrSq{œfieldNameœ:œisTrueœ,œidœ:œPrompt Template-cFrSqœ,œinputTypesœ:[œMessageœ],œtypeœ:œstrœ}",
         "selected": false,
-        "source": "ConditionalRouter-KfMlf",
-        "sourceHandle": "{œdataTypeœ:œConditionalRouterœ,œidœ:œConditionalRouter-KfMlfœ,œnameœ:œtrue_resultœ,œoutput_typesœ:[œMessageœ]}",
-        "target": "Prompt Template-gnxA5",
-        "targetHandle": "{œfieldNameœ:œisTrueœ,œidœ:œPrompt Template-gnxA5œ,œinputTypesœ:[œMessageœ],œtypeœ:œstrœ}"
+        "source": "ConditionalRouter-4CHIa",
+        "sourceHandle": "{œdataTypeœ:œConditionalRouterœ,œidœ:œConditionalRouter-4CHIaœ,œnameœ:œtrue_resultœ,œoutput_typesœ:[œMessageœ]}",
+        "target": "Prompt Template-cFrSq",
+        "targetHandle": "{œfieldNameœ:œisTrueœ,œidœ:œPrompt Template-cFrSqœ,œinputTypesœ:[œMessageœ],œtypeœ:œstrœ}"
       },
       {
         "animated": false,
@@ -686,7 +686,7 @@
         "data": {
           "sourceHandle": {
             "dataType": "VertexAiModel",
-            "id": "VertexAiModel-v4EkD",
+            "id": "VertexAiModel-tUy6j",
             "name": "text_output",
             "output_types": [
               "Message"
@@ -694,19 +694,19 @@
           },
           "targetHandle": {
             "fieldName": "prospect_info",
-            "id": "Prompt Template-U7CmM",
+            "id": "Prompt Template-27o4J",
             "inputTypes": [
               "Message"
             ],
             "type": "str"
           }
         },
-        "id": "reactflow__edge-VertexAiModel-v4EkD{œdataTypeœ:œVertexAiModelœ,œidœ:œVertexAiModel-v4EkDœ,œnameœ:œtext_outputœ,œoutput_typesœ:[œMessageœ]}-Prompt Template-U7CmM{œfieldNameœ:œprospect_infoœ,œidœ:œPrompt Template-U7CmMœ,œinputTypesœ:[œMessageœ],œtypeœ:œstrœ}",
+        "id": "reactflow__edge-VertexAiModel-tUy6j{œdataTypeœ:œVertexAiModelœ,œidœ:œVertexAiModel-tUy6jœ,œnameœ:œtext_outputœ,œoutput_typesœ:[œMessageœ]}-Prompt Template-27o4J{œfieldNameœ:œprospect_infoœ,œidœ:œPrompt Template-27o4Jœ,œinputTypesœ:[œMessageœ],œtypeœ:œstrœ}",
         "selected": false,
-        "source": "VertexAiModel-v4EkD",
-        "sourceHandle": "{œdataTypeœ:œVertexAiModelœ,œidœ:œVertexAiModel-v4EkDœ,œnameœ:œtext_outputœ,œoutput_typesœ:[œMessageœ]}",
-        "target": "Prompt Template-U7CmM",
-        "targetHandle": "{œfieldNameœ:œprospect_infoœ,œidœ:œPrompt Template-U7CmMœ,œinputTypesœ:[œMessageœ],œtypeœ:œstrœ}"
+        "source": "VertexAiModel-tUy6j",
+        "sourceHandle": "{œdataTypeœ:œVertexAiModelœ,œidœ:œVertexAiModel-tUy6jœ,œnameœ:œtext_outputœ,œoutput_typesœ:[œMessageœ]}",
+        "target": "Prompt Template-27o4J",
+        "targetHandle": "{œfieldNameœ:œprospect_infoœ,œidœ:œPrompt Template-27o4Jœ,œinputTypesœ:[œMessageœ],œtypeœ:œstrœ}"
       },
       {
         "animated": false,
@@ -714,7 +714,7 @@
         "data": {
           "sourceHandle": {
             "dataType": "VertexAiModel",
-            "id": "VertexAiModel-v4EkD",
+            "id": "VertexAiModel-tUy6j",
             "name": "text_output",
             "output_types": [
               "Message"
@@ -722,19 +722,19 @@
           },
           "targetHandle": {
             "fieldName": "prospect_info",
-            "id": "Prompt Template-gnxA5",
+            "id": "Prompt Template-cFrSq",
             "inputTypes": [
               "Message"
             ],
             "type": "str"
           }
         },
-        "id": "reactflow__edge-VertexAiModel-v4EkD{œdataTypeœ:œVertexAiModelœ,œidœ:œVertexAiModel-v4EkDœ,œnameœ:œtext_outputœ,œoutput_typesœ:[œMessageœ]}-Prompt Template-gnxA5{œfieldNameœ:œprospect_infoœ,œidœ:œPrompt Template-gnxA5œ,œinputTypesœ:[œMessageœ],œtypeœ:œstrœ}",
+        "id": "reactflow__edge-VertexAiModel-tUy6j{œdataTypeœ:œVertexAiModelœ,œidœ:œVertexAiModel-tUy6jœ,œnameœ:œtext_outputœ,œoutput_typesœ:[œMessageœ]}-Prompt Template-cFrSq{œfieldNameœ:œprospect_infoœ,œidœ:œPrompt Template-cFrSqœ,œinputTypesœ:[œMessageœ],œtypeœ:œstrœ}",
         "selected": false,
-        "source": "VertexAiModel-v4EkD",
-        "sourceHandle": "{œdataTypeœ:œVertexAiModelœ,œidœ:œVertexAiModel-v4EkDœ,œnameœ:œtext_outputœ,œoutput_typesœ:[œMessageœ]}",
-        "target": "Prompt Template-gnxA5",
-        "targetHandle": "{œfieldNameœ:œprospect_infoœ,œidœ:œPrompt Template-gnxA5œ,œinputTypesœ:[œMessageœ],œtypeœ:œstrœ}"
+        "source": "VertexAiModel-tUy6j",
+        "sourceHandle": "{œdataTypeœ:œVertexAiModelœ,œidœ:œVertexAiModel-tUy6jœ,œnameœ:œtext_outputœ,œoutput_typesœ:[œMessageœ]}",
+        "target": "Prompt Template-cFrSq",
+        "targetHandle": "{œfieldNameœ:œprospect_infoœ,œidœ:œPrompt Template-cFrSqœ,œinputTypesœ:[œMessageœ],œtypeœ:œstrœ}"
       },
       {
         "animated": false,
@@ -742,7 +742,7 @@
         "data": {
           "sourceHandle": {
             "dataType": "TextInput",
-            "id": "TextInput-yfNnb",
+            "id": "TextInput-6nNLU",
             "name": "text",
             "output_types": [
               "Message"
@@ -750,19 +750,19 @@
           },
           "targetHandle": {
             "fieldName": "target_roles",
-            "id": "Prompt Template-phcCQ",
+            "id": "Prompt Template-8KTNo",
             "inputTypes": [
               "Message"
             ],
             "type": "str"
           }
         },
-        "id": "xy-edge__TextInput-yfNnb{œdataTypeœ:œTextInputœ,œidœ:œTextInput-yfNnbœ,œnameœ:œtextœ,œoutput_typesœ:[œMessageœ]}-Prompt Template-phcCQ{œfieldNameœ:œtarget_rolesœ,œidœ:œPrompt Template-phcCQœ,œinputTypesœ:[œMessageœ],œtypeœ:œstrœ}",
+        "id": "reactflow__edge-TextInput-6nNLU{œdataTypeœ:œTextInputœ,œidœ:œTextInput-6nNLUœ,œnameœ:œtextœ,œoutput_typesœ:[œMessageœ]}-Prompt Template-8KTNo{œfieldNameœ:œtarget_rolesœ,œidœ:œPrompt Template-8KTNoœ,œinputTypesœ:[œMessageœ],œtypeœ:œstrœ}",
         "selected": false,
-        "source": "TextInput-yfNnb",
-        "sourceHandle": "{œdataTypeœ:œTextInputœ,œidœ:œTextInput-yfNnbœ,œnameœ:œtextœ,œoutput_typesœ:[œMessageœ]}",
-        "target": "Prompt Template-phcCQ",
-        "targetHandle": "{œfieldNameœ:œtarget_rolesœ,œidœ:œPrompt Template-phcCQœ,œinputTypesœ:[œMessageœ],œtypeœ:œstrœ}"
+        "source": "TextInput-6nNLU",
+        "sourceHandle": "{œdataTypeœ:œTextInputœ,œidœ:œTextInput-6nNLUœ,œnameœ:œtextœ,œoutput_typesœ:[œMessageœ]}",
+        "target": "Prompt Template-8KTNo",
+        "targetHandle": "{œfieldNameœ:œtarget_rolesœ,œidœ:œPrompt Template-8KTNoœ,œinputTypesœ:[œMessageœ],œtypeœ:œstrœ}"
       },
       {
         "animated": false,
@@ -770,7 +770,7 @@
         "data": {
           "sourceHandle": {
             "dataType": "File",
-            "id": "File-CThkd",
+            "id": "File-dHRbV",
             "name": "message",
             "output_types": [
               "Message"
@@ -778,19 +778,19 @@
           },
           "targetHandle": {
             "fieldName": "resume_text",
-            "id": "Prompt Template-phcCQ",
+            "id": "Prompt Template-8KTNo",
             "inputTypes": [
               "Message"
             ],
             "type": "str"
           }
         },
-        "id": "xy-edge__File-CThkd{œdataTypeœ:œFileœ,œidœ:œFile-CThkdœ,œnameœ:œmessageœ,œoutput_typesœ:[œMessageœ]}-Prompt Template-phcCQ{œfieldNameœ:œresume_textœ,œidœ:œPrompt Template-phcCQœ,œinputTypesœ:[œMessageœ],œtypeœ:œstrœ}",
+        "id": "reactflow__edge-File-dHRbV{œdataTypeœ:œFileœ,œidœ:œFile-dHRbVœ,œnameœ:œmessageœ,œoutput_typesœ:[œMessageœ]}-Prompt Template-8KTNo{œfieldNameœ:œresume_textœ,œidœ:œPrompt Template-8KTNoœ,œinputTypesœ:[œMessageœ],œtypeœ:œstrœ}",
         "selected": false,
-        "source": "File-CThkd",
-        "sourceHandle": "{œdataTypeœ:œFileœ,œidœ:œFile-CThkdœ,œnameœ:œmessageœ,œoutput_typesœ:[œMessageœ]}",
-        "target": "Prompt Template-phcCQ",
-        "targetHandle": "{œfieldNameœ:œresume_textœ,œidœ:œPrompt Template-phcCQœ,œinputTypesœ:[œMessageœ],œtypeœ:œstrœ}"
+        "source": "File-dHRbV",
+        "sourceHandle": "{œdataTypeœ:œFileœ,œidœ:œFile-dHRbVœ,œnameœ:œmessageœ,œoutput_typesœ:[œMessageœ]}",
+        "target": "Prompt Template-8KTNo",
+        "targetHandle": "{œfieldNameœ:œresume_textœ,œidœ:œPrompt Template-8KTNoœ,œinputTypesœ:[œMessageœ],œtypeœ:œstrœ}"
       },
       {
         "animated": false,
@@ -798,7 +798,7 @@
         "data": {
           "sourceHandle": {
             "dataType": "Prompt Template",
-            "id": "Prompt Template-phcCQ",
+            "id": "Prompt Template-8KTNo",
             "name": "prompt",
             "output_types": [
               "Message"
@@ -806,19 +806,19 @@
           },
           "targetHandle": {
             "fieldName": "input_value",
-            "id": "VertexAiModel-CNKyj",
+            "id": "VertexAiModel-TaSSK",
             "inputTypes": [
               "Message"
             ],
             "type": "str"
           }
         },
-        "id": "xy-edge__Prompt Template-phcCQ{œdataTypeœ:œPrompt Templateœ,œidœ:œPrompt Template-phcCQœ,œnameœ:œpromptœ,œoutput_typesœ:[œMessageœ]}-VertexAiModel-CNKyj{œfieldNameœ:œinput_valueœ,œidœ:œVertexAiModel-CNKyjœ,œinputTypesœ:[œMessageœ],œtypeœ:œstrœ}",
+        "id": "reactflow__edge-Prompt Template-8KTNo{œdataTypeœ:œPrompt Templateœ,œidœ:œPrompt Template-8KTNoœ,œnameœ:œpromptœ,œoutput_typesœ:[œMessageœ]}-VertexAiModel-TaSSK{œfieldNameœ:œinput_valueœ,œidœ:œVertexAiModel-TaSSKœ,œinputTypesœ:[œMessageœ],œtypeœ:œstrœ}",
         "selected": false,
-        "source": "Prompt Template-phcCQ",
-        "sourceHandle": "{œdataTypeœ:œPrompt Templateœ,œidœ:œPrompt Template-phcCQœ,œnameœ:œpromptœ,œoutput_typesœ:[œMessageœ]}",
-        "target": "VertexAiModel-CNKyj",
-        "targetHandle": "{œfieldNameœ:œinput_valueœ,œidœ:œVertexAiModel-CNKyjœ,œinputTypesœ:[œMessageœ],œtypeœ:œstrœ}"
+        "source": "Prompt Template-8KTNo",
+        "sourceHandle": "{œdataTypeœ:œPrompt Templateœ,œidœ:œPrompt Template-8KTNoœ,œnameœ:œpromptœ,œoutput_typesœ:[œMessageœ]}",
+        "target": "VertexAiModel-TaSSK",
+        "targetHandle": "{œfieldNameœ:œinput_valueœ,œidœ:œVertexAiModel-TaSSKœ,œinputTypesœ:[œMessageœ],œtypeœ:œstrœ}"
       },
       {
         "animated": false,
@@ -826,7 +826,7 @@
         "data": {
           "sourceHandle": {
             "dataType": "VertexAiModel",
-            "id": "VertexAiModel-CNKyj",
+            "id": "VertexAiModel-TaSSK",
             "name": "text_output",
             "output_types": [
               "Message"
@@ -834,7 +834,7 @@
           },
           "targetHandle": {
             "fieldName": "input_value",
-            "id": "ChatOutput-ed6cc",
+            "id": "ChatOutput-pT8Yf",
             "inputTypes": [
               "Data",
               "DataFrame",
@@ -843,18 +843,18 @@
             "type": "other"
           }
         },
-        "id": "xy-edge__VertexAiModel-CNKyj{œdataTypeœ:œVertexAiModelœ,œidœ:œVertexAiModel-CNKyjœ,œnameœ:œtext_outputœ,œoutput_typesœ:[œMessageœ]}-ChatOutput-ed6cc{œfieldNameœ:œinput_valueœ,œidœ:œChatOutput-ed6ccœ,œinputTypesœ:[œDataœ,œDataFrameœ,œMessageœ],œtypeœ:œotherœ}",
+        "id": "reactflow__edge-VertexAiModel-TaSSK{œdataTypeœ:œVertexAiModelœ,œidœ:œVertexAiModel-TaSSKœ,œnameœ:œtext_outputœ,œoutput_typesœ:[œMessageœ]}-ChatOutput-pT8Yf{œfieldNameœ:œinput_valueœ,œidœ:œChatOutput-pT8Yfœ,œinputTypesœ:[œDataœ,œDataFrameœ,œMessageœ],œtypeœ:œotherœ}",
         "selected": false,
-        "source": "VertexAiModel-CNKyj",
-        "sourceHandle": "{œdataTypeœ:œVertexAiModelœ,œidœ:œVertexAiModel-CNKyjœ,œnameœ:œtext_outputœ,œoutput_typesœ:[œMessageœ]}",
-        "target": "ChatOutput-ed6cc",
-        "targetHandle": "{œfieldNameœ:œinput_valueœ,œidœ:œChatOutput-ed6ccœ,œinputTypesœ:[œDataœ,œDataFrameœ,œMessageœ],œtypeœ:œotherœ}"
+        "source": "VertexAiModel-TaSSK",
+        "sourceHandle": "{œdataTypeœ:œVertexAiModelœ,œidœ:œVertexAiModel-TaSSKœ,œnameœ:œtext_outputœ,œoutput_typesœ:[œMessageœ]}",
+        "target": "ChatOutput-pT8Yf",
+        "targetHandle": "{œfieldNameœ:œinput_valueœ,œidœ:œChatOutput-pT8Yfœ,œinputTypesœ:[œDataœ,œDataFrameœ,œMessageœ],œtypeœ:œotherœ}"
       }
     ],
     "nodes": [
       {
         "data": {
-          "id": "File-CThkd",
+          "id": "File-dHRbV",
           "node": {
             "base_classes": [
               "Message"
@@ -865,7 +865,7 @@
             "description": "Loads and returns the content from uploaded files.",
             "display_name": "Read File",
             "documentation": "https://docs.langflow.org/read-file",
-            "edited": false,
+            "edited": true,
             "field_order": [
               "storage_location",
               "path",
@@ -895,9 +895,9 @@
             ],
             "frozen": false,
             "icon": "file-text",
-            "last_updated": "2026-04-15T19:27:05.577Z",
+            "last_updated": "2026-04-17T01:27:57.936Z",
             "legacy": false,
-            "lf_version": "1.8.2",
+            "lf_version": "1.9.0",
             "metadata": {
               "code_hash": "12a5841f1a03",
               "dependencies": {
@@ -942,30 +942,12 @@
                   "Message"
                 ],
                 "value": "__UNDEFINED__"
-              },
-              {
-                "allows_loop": false,
-                "cache": true,
-                "display_name": "File Path",
-                "group_outputs": false,
-                "hidden": null,
-                "loop_types": null,
-                "method": "load_files_path",
-                "name": "path",
-                "options": null,
-                "required_inputs": null,
-                "selected": "Message",
-                "tool_mode": true,
-                "types": [
-                  "Message"
-                ],
-                "value": "__UNDEFINED__"
               }
             ],
             "pinned": false,
             "template": {
               "_frontend_node_flow_id": {
-                "value": "deb8a350-c52f-4ca7-af16-b187f72b2507"
+                "value": "dd5237db-e1d1-4612-a1ee-e845c53985be"
               },
               "_frontend_node_folder_id": {
                 "value": "cab6cc1a-00e8-4c1f-96eb-ff620e461497"
@@ -1401,9 +1383,7 @@
                   "bz2",
                   "gz"
                 ],
-                "file_path": [
-                  "e67c0e3c-3892-4602-8bca-2784fd6e4133/Nandini Chanda CV UK (14).pdf"
-                ],
+                "file_path": [],
                 "info": "Supported file extensions: csv, json, pdf, txt, md, mdx, yaml, yml, xml, html, htm, docx, py, sh, sql, js, ts, tsx, adoc, asciidoc, asc, bmp, dotx, dotm, docm, jpg, jpeg, png, potx, ppsx, pptm, potm, ppsm, pptx, tiff, xls, xlsx, xhtml, webp; optionally bundled in file extensions: zip, tar, tgz, bz2, gz",
                 "list": true,
                 "list_add_label": "Add More",
@@ -1600,9 +1580,9 @@
           "type": "File"
         },
         "dragging": false,
-        "id": "File-CThkd",
+        "id": "File-dHRbV",
         "measured": {
-          "height": 279,
+          "height": 275,
           "width": 320
         },
         "position": {
@@ -1614,7 +1594,7 @@
       },
       {
         "data": {
-          "id": "Prompt Template-U7CmM",
+          "id": "Prompt Template-27o4J",
           "node": {
             "base_classes": [
               "Message"
@@ -1631,7 +1611,7 @@
             "description": "Create a prompt template with dynamic variables.",
             "display_name": "Founder Prompt",
             "documentation": "https://docs.langflow.org/components-prompts",
-            "edited": false,
+            "edited": true,
             "error": null,
             "field_order": [
               "template",
@@ -1766,7 +1746,7 @@
                 "trace_as_input": true,
                 "track_in_telemetry": false,
                 "type": "prompt",
-                "value": "You are the user writing a cold email to a FOUNDER or small business owner.  ({isTrue})\n\nUser Background: {user_background}\nProspect Info: {prospect_info}\n\nWrite a cold email under 150 words that:\n- Opens referencing a specific challenge founders face (hiring, growth, costs)\n- Uses casual peer-to-peer tone\n- Ends with a soft call to action (15-min chat, coffee)\n- Sounds human, NOT templated\n\nOutput only the email with subject line. Do not include any labels like Name:, Title:, or Profile:."
+                "value": "You are the user writing a cold email to a FOUNDER or small business owner.  ({isTrue})\n\nUser Background: {user_background}\nProspect Info: {prospect_info}\n\nWrite a cold email under 150 words that:\n- Opens referencing a specific challenge founders face (hiring, growth, costs)\n- Uses casual peer-to-peer tone\n- Ends with a soft call to action (15-min chat, coffee)\n- Sounds human, NOT templated\n\nOutput only the email with subject line. Do not include any labels like Name:, Title:, or Profile:.\n\n\nAfter the email, on a new line write exactly:\nCONFIDENCE: [score]/10 - [one sentence reason]\n\nExample:\nCONFIDENCE: 8/10 - Strong prospect match with clear strategic hook."
               },
               "tool_placeholder": {
                 "_input_type": "MessageTextInput",
@@ -1843,7 +1823,7 @@
           "type": "Prompt Template"
         },
         "dragging": false,
-        "id": "Prompt Template-U7CmM",
+        "id": "Prompt Template-27o4J",
         "measured": {
           "height": 511,
           "width": 320
@@ -1857,7 +1837,7 @@
       },
       {
         "data": {
-          "id": "Prompt Template-2Ohoc",
+          "id": "Prompt Template-yQk6F",
           "node": {
             "base_classes": [
               "Message"
@@ -1874,7 +1854,7 @@
             "description": "Create a prompt template with dynamic variables.",
             "display_name": "Executive Prompt",
             "documentation": "https://docs.langflow.org/components-prompts",
-            "edited": false,
+            "edited": true,
             "error": null,
             "field_order": [
               "template",
@@ -1888,7 +1868,6 @@
             "is_input": null,
             "is_output": null,
             "legacy": false,
-            "lf_version": "1.8.2",
             "metadata": {
               "code_hash": "5b3e6730923e",
               "dependencies": {
@@ -2010,7 +1989,7 @@
                 "trace_as_input": true,
                 "track_in_telemetry": false,
                 "type": "prompt",
-                "value": "You are the user writing a cold email to a SENIOR EXECUTIVE. ({isTrue})\n\nUser Background: {user_background}\nProspect Info: {prospect_info}\n\nWrite a cold email under 150 words that:\n- Opens referencing their company's strategic direction\n- Frames value in terms of business outcomes\n- Uses professional, concise, respectful tone\n- Ends with a low-pressure ask\n\nOutput only the email with subject line. Do not include any labels like Name:, Title:, or Profile:."
+                "value": "You are the user writing a cold email to a SENIOR EXECUTIVE. ({isTrue})\n\nUser Background: {user_background}\nProspect Info: {prospect_info}\n\nWrite a cold email under 150 words that:\n- Opens referencing their company's strategic direction\n- Frames value in terms of business outcomes\n- Uses professional, concise, respectful tone\n- Ends with a low-pressure ask\n\nOutput only the email with subject line. Do not include any labels like Name:, Title:, or Profile:.\n\n\nAfter the email, on a new line write exactly:\nCONFIDENCE: [score]/10 - [one sentence reason]\n\nExample:\nCONFIDENCE: 8/10 - Strong prospect match with clear strategic hook."
               },
               "tool_placeholder": {
                 "_input_type": "MessageTextInput",
@@ -2087,7 +2066,7 @@
           "type": "Prompt Template"
         },
         "dragging": false,
-        "id": "Prompt Template-2Ohoc",
+        "id": "Prompt Template-yQk6F",
         "measured": {
           "height": 511,
           "width": 320
@@ -2101,7 +2080,7 @@
       },
       {
         "data": {
-          "id": "Prompt Template-gnxA5",
+          "id": "Prompt Template-cFrSq",
           "node": {
             "base_classes": [
               "Message"
@@ -2118,7 +2097,7 @@
             "description": "Create a prompt template with dynamic variables.",
             "display_name": "Recruiter Prompt",
             "documentation": "https://docs.langflow.org/components-prompts",
-            "edited": false,
+            "edited": true,
             "error": null,
             "field_order": [
               "template",
@@ -2132,7 +2111,6 @@
             "is_input": null,
             "is_output": null,
             "legacy": false,
-            "lf_version": "1.8.2",
             "metadata": {
               "code_hash": "5b3e6730923e",
               "dependencies": {
@@ -2254,7 +2232,7 @@
                 "trace_as_input": true,
                 "track_in_telemetry": false,
                 "type": "prompt",
-                "value": "You are the user writing a cold email to a RECRUITER or HIRING MANAGER.  ({isTrue})\n \nUser Background: {user_background}\nProspect Info: {prospect_info}\n\nWrite a cold email under 150 words that:\n- References the specific role or team they are hiring for\n- Highlights the user's most relevant accomplishment\n- Shows enthusiasm without sounding desperate\n- Ends with a clear ask (resume review, quick call)\n\nOutput only the email with subject line. Do not include any labels like Name:, Title:, or Profile:."
+                "value": "You are the user writing a cold email to a RECRUITER or HIRING MANAGER.  ({isTrue})\n \nUser Background: {user_background}\nProspect Info: {prospect_info}\n\nWrite a cold email under 150 words that:\n- References the specific role or team they are hiring for\n- Highlights the user's most relevant accomplishment\n- Shows enthusiasm without sounding desperate\n- Ends with a clear ask (resume review, quick call)\n\nOutput only the email with subject line. Do not include any labels like Name:, Title:, or Profile:.\n\n\nAfter the email, on a new line write exactly:\nCONFIDENCE: [score]/10 - [one sentence reason]\n\nExample:\nCONFIDENCE: 8/10 - Strong prospect match with clear strategic hook."
               },
               "tool_placeholder": {
                 "_input_type": "MessageTextInput",
@@ -2331,7 +2309,7 @@
           "type": "Prompt Template"
         },
         "dragging": false,
-        "id": "Prompt Template-gnxA5",
+        "id": "Prompt Template-cFrSq",
         "measured": {
           "height": 511,
           "width": 320
@@ -2345,7 +2323,7 @@
       },
       {
         "data": {
-          "id": "ChatOutput-5EX9M",
+          "id": "ChatOutput-QYYBz",
           "node": {
             "base_classes": [
               "Message"
@@ -2356,7 +2334,7 @@
             "description": "Display a chat message in the Playground.",
             "display_name": "Chat Output",
             "documentation": "https://docs.langflow.org/chat-input-and-output",
-            "edited": false,
+            "edited": true,
             "field_order": [
               "input_value",
               "should_store_message",
@@ -2629,7 +2607,7 @@
           "type": "ChatOutput"
         },
         "dragging": false,
-        "id": "ChatOutput-5EX9M",
+        "id": "ChatOutput-QYYBz",
         "measured": {
           "height": 52,
           "width": 192
@@ -2643,7 +2621,7 @@
       },
       {
         "data": {
-          "id": "TavilySearchComponent-9HMhp",
+          "id": "TavilySearchComponent-JsSWI",
           "node": {
             "base_classes": [
               "DataFrame"
@@ -2654,7 +2632,7 @@
             "description": "**Tavily Search** is a search engine optimized for LLMs and RAG,         aimed at efficient, quick, and persistent search results.",
             "display_name": "Tavily Search API",
             "documentation": "",
-            "edited": false,
+            "edited": true,
             "field_order": [
               "api_key",
               "query",
@@ -2673,7 +2651,7 @@
             "frozen": false,
             "icon": "TavilyIcon",
             "legacy": false,
-            "lf_version": "1.8.2",
+            "lf_version": "1.9.0",
             "metadata": {
               "code_hash": "e602eaec8316",
               "dependencies": {
@@ -2719,7 +2697,7 @@
                 "dynamic": false,
                 "info": "Your Tavily API Key.",
                 "input_types": [],
-                "load_from_db": true,
+                "load_from_db": false,
                 "name": "api_key",
                 "override_skip": false,
                 "password": true,
@@ -2729,7 +2707,7 @@
                 "title_case": false,
                 "track_in_telemetry": false,
                 "type": "str",
-                "value": "TAVILY_API_KEY"
+                "value": ""
               },
               "chunks_per_source": {
                 "_input_type": "IntInput",
@@ -3033,7 +3011,7 @@
           "type": "TavilySearchComponent"
         },
         "dragging": false,
-        "id": "TavilySearchComponent-9HMhp",
+        "id": "TavilySearchComponent-JsSWI",
         "measured": {
           "height": 321,
           "width": 320
@@ -3047,7 +3025,7 @@
       },
       {
         "data": {
-          "id": "ParserComponent-Dofpu",
+          "id": "ParserComponent-6shIO",
           "node": {
             "base_classes": [
               "Message"
@@ -3058,7 +3036,7 @@
             "description": "Extracts text using a template.",
             "display_name": "Parser",
             "documentation": "https://docs.langflow.org/parser",
-            "edited": false,
+            "edited": true,
             "field_order": [
               "input_data",
               "mode",
@@ -3068,7 +3046,7 @@
             "frozen": false,
             "icon": "braces",
             "legacy": false,
-            "lf_version": "1.8.2",
+            "lf_version": "1.9.0",
             "metadata": {
               "code_hash": "3cda25c3f7b5",
               "dependencies": {
@@ -3228,7 +3206,7 @@
           "type": "ParserComponent"
         },
         "dragging": false,
-        "id": "ParserComponent-Dofpu",
+        "id": "ParserComponent-6shIO",
         "measured": {
           "height": 331,
           "width": 320
@@ -3242,7 +3220,7 @@
       },
       {
         "data": {
-          "id": "Prompt Template-t8zgv",
+          "id": "Prompt Template-cyaVC",
           "node": {
             "base_classes": [
               "Message"
@@ -3258,7 +3236,7 @@
             "description": "Create a prompt template with dynamic variables.",
             "display_name": "Search Prompt",
             "documentation": "https://docs.langflow.org/components-prompts",
-            "edited": false,
+            "edited": true,
             "error": null,
             "field_order": [
               "template",
@@ -3272,7 +3250,7 @@
             "is_input": null,
             "is_output": null,
             "legacy": false,
-            "lf_version": "1.8.2",
+            "lf_version": "1.9.0",
             "metadata": {
               "code_hash": "5b3e6730923e",
               "dependencies": {
@@ -3449,7 +3427,7 @@
           "type": "Prompt Template"
         },
         "dragging": false,
-        "id": "Prompt Template-t8zgv",
+        "id": "Prompt Template-cyaVC",
         "measured": {
           "height": 429,
           "width": 320
@@ -3463,7 +3441,7 @@
       },
       {
         "data": {
-          "id": "VertexAiModel-YQ1Lf",
+          "id": "VertexAiModel-fKn7x",
           "node": {
             "base_classes": [
               "LanguageModel",
@@ -3494,7 +3472,7 @@
             "frozen": false,
             "icon": "VertexAI",
             "legacy": false,
-            "lf_version": "1.8.2",
+            "lf_version": "1.9.0",
             "metadata": {
               "code_hash": "d9f75281d3fa",
               "dependencies": {
@@ -3582,7 +3560,7 @@
                 "fileTypes": [
                   "json"
                 ],
-                "file_path": "e67c0e3c-3892-4602-8bca-2784fd6e4133/aibm-492721-97fe04640c75.json",
+                "file_path": "",
                 "info": "JSON credentials file. Leave empty to fallback to environment variables",
                 "list": false,
                 "list_add_label": "Add More",
@@ -3868,9 +3846,9 @@
           "type": "VertexAiModel"
         },
         "dragging": false,
-        "id": "VertexAiModel-YQ1Lf",
+        "id": "VertexAiModel-fKn7x",
         "measured": {
-          "height": 541,
+          "height": 545,
           "width": 320
         },
         "position": {
@@ -3882,7 +3860,7 @@
       },
       {
         "data": {
-          "id": "VertexAiModel-7u3Va",
+          "id": "VertexAiModel-Ei8j6",
           "node": {
             "base_classes": [
               "LanguageModel",
@@ -4001,7 +3979,7 @@
                 "fileTypes": [
                   "json"
                 ],
-                "file_path": "e67c0e3c-3892-4602-8bca-2784fd6e4133/aibm-492721-97fe04640c75.json",
+                "file_path": "",
                 "info": "JSON credentials file. Leave empty to fallback to environment variables",
                 "list": false,
                 "list_add_label": "Add More",
@@ -4287,9 +4265,9 @@
           "type": "VertexAiModel"
         },
         "dragging": false,
-        "id": "VertexAiModel-7u3Va",
+        "id": "VertexAiModel-Ei8j6",
         "measured": {
-          "height": 541,
+          "height": 545,
           "width": 320
         },
         "position": {
@@ -4301,7 +4279,7 @@
       },
       {
         "data": {
-          "id": "VertexAiModel-tNE0r",
+          "id": "VertexAiModel-fylfu",
           "node": {
             "base_classes": [
               "LanguageModel",
@@ -4332,7 +4310,7 @@
             "frozen": false,
             "icon": "VertexAI",
             "legacy": false,
-            "lf_version": "1.8.2",
+            "lf_version": "1.9.0",
             "metadata": {
               "code_hash": "d9f75281d3fa",
               "dependencies": {
@@ -4420,7 +4398,7 @@
                 "fileTypes": [
                   "json"
                 ],
-                "file_path": "e67c0e3c-3892-4602-8bca-2784fd6e4133/aibm-492721-97fe04640c75.json",
+                "file_path": "",
                 "info": "JSON credentials file. Leave empty to fallback to environment variables",
                 "list": false,
                 "list_add_label": "Add More",
@@ -4706,9 +4684,9 @@
           "type": "VertexAiModel"
         },
         "dragging": false,
-        "id": "VertexAiModel-tNE0r",
+        "id": "VertexAiModel-fylfu",
         "measured": {
-          "height": 541,
+          "height": 545,
           "width": 320
         },
         "position": {
@@ -4720,7 +4698,7 @@
       },
       {
         "data": {
-          "id": "VertexAiModel-8f3JD",
+          "id": "VertexAiModel-gGeVb",
           "node": {
             "base_classes": [
               "LanguageModel",
@@ -4839,7 +4817,7 @@
                 "fileTypes": [
                   "json"
                 ],
-                "file_path": "e67c0e3c-3892-4602-8bca-2784fd6e4133/aibm-492721-97fe04640c75.json",
+                "file_path": "",
                 "info": "JSON credentials file. Leave empty to fallback to environment variables",
                 "list": false,
                 "list_add_label": "Add More",
@@ -5125,9 +5103,9 @@
           "type": "VertexAiModel"
         },
         "dragging": false,
-        "id": "VertexAiModel-8f3JD",
+        "id": "VertexAiModel-gGeVb",
         "measured": {
-          "height": 541,
+          "height": 545,
           "width": 320
         },
         "position": {
@@ -5139,7 +5117,7 @@
       },
       {
         "data": {
-          "id": "Prompt Template-xaWtQ",
+          "id": "Prompt Template-Tsa1y",
           "node": {
             "base_classes": [
               "Message"
@@ -5158,7 +5136,7 @@
             "description": "Create a prompt template with dynamic variables.",
             "display_name": "Prompt Template",
             "documentation": "https://docs.langflow.org/components-prompts",
-            "edited": false,
+            "edited": true,
             "error": null,
             "field_order": [
               "template",
@@ -5172,7 +5150,7 @@
             "is_input": null,
             "is_output": null,
             "legacy": false,
-            "lf_version": "1.8.2",
+            "lf_version": "1.9.0",
             "metadata": {
               "code_hash": "5b3e6730923e",
               "dependencies": {
@@ -5415,7 +5393,7 @@
           "type": "Prompt Template"
         },
         "dragging": false,
-        "id": "Prompt Template-xaWtQ",
+        "id": "Prompt Template-Tsa1y",
         "measured": {
           "height": 675,
           "width": 320
@@ -5429,7 +5407,7 @@
       },
       {
         "data": {
-          "id": "ChatOutput-3h4NR",
+          "id": "ChatOutput-r84jE",
           "node": {
             "base_classes": [
               "Message"
@@ -5440,7 +5418,7 @@
             "description": "Display a chat message in the Playground.",
             "display_name": "Chat Output",
             "documentation": "https://docs.langflow.org/chat-input-and-output",
-            "edited": false,
+            "edited": true,
             "field_order": [
               "input_value",
               "should_store_message",
@@ -5454,7 +5432,7 @@
             "frozen": false,
             "icon": "MessagesSquare",
             "legacy": false,
-            "lf_version": "1.8.2",
+            "lf_version": "1.9.0",
             "metadata": {
               "code_hash": "8c87e536cca4",
               "dependencies": {
@@ -5712,7 +5690,7 @@
           "showNode": false,
           "type": "ChatOutput"
         },
-        "id": "ChatOutput-3h4NR",
+        "id": "ChatOutput-r84jE",
         "measured": {
           "height": 52,
           "width": 192
@@ -5726,7 +5704,7 @@
       },
       {
         "data": {
-          "id": "ChatOutput-3nn92",
+          "id": "ChatOutput-IZ5jG",
           "node": {
             "base_classes": [
               "Message"
@@ -5737,7 +5715,7 @@
             "description": "Display a chat message in the Playground.",
             "display_name": "Chat Output",
             "documentation": "https://docs.langflow.org/chat-input-and-output",
-            "edited": false,
+            "edited": true,
             "field_order": [
               "input_value",
               "should_store_message",
@@ -6009,7 +5987,7 @@
           "type": "ChatOutput"
         },
         "dragging": false,
-        "id": "ChatOutput-3nn92",
+        "id": "ChatOutput-IZ5jG",
         "measured": {
           "height": 52,
           "width": 192
@@ -6023,7 +6001,7 @@
       },
       {
         "data": {
-          "id": "TextInput-yfNnb",
+          "id": "TextInput-6nNLU",
           "node": {
             "base_classes": [
               "Message"
@@ -6042,7 +6020,7 @@
             "frozen": false,
             "icon": "type",
             "legacy": false,
-            "lf_version": "1.8.2",
+            "lf_version": "1.9.0",
             "metadata": {
               "code_hash": "518f16485886",
               "dependencies": {
@@ -6122,7 +6100,7 @@
                 "trace_as_metadata": true,
                 "track_in_telemetry": false,
                 "type": "str",
-                "value": "cloud engineering roles"
+                "value": "ML Engineer"
               },
               "use_global_variable": {
                 "_input_type": "BoolInput",
@@ -6152,7 +6130,7 @@
           "type": "TextInput"
         },
         "dragging": false,
-        "id": "TextInput-yfNnb",
+        "id": "TextInput-6nNLU",
         "measured": {
           "height": 207,
           "width": 320
@@ -6166,7 +6144,7 @@
       },
       {
         "data": {
-          "id": "ConditionalRouter-o44oQ",
+          "id": "ConditionalRouter-JTpgL",
           "node": {
             "base_classes": [
               "Message"
@@ -6192,7 +6170,7 @@
             "icon": "split",
             "last_updated": "2026-04-15T15:33:28.211Z",
             "legacy": false,
-            "lf_version": "1.8.2",
+            "lf_version": "1.9.0",
             "metadata": {
               "code_hash": "e92b1b243e5f",
               "dependencies": {
@@ -6482,7 +6460,7 @@
           "type": "ConditionalRouter"
         },
         "dragging": false,
-        "id": "ConditionalRouter-o44oQ",
+        "id": "ConditionalRouter-JTpgL",
         "measured": {
           "height": 431,
           "width": 320
@@ -6496,7 +6474,7 @@
       },
       {
         "data": {
-          "id": "VertexAiModel-v4EkD",
+          "id": "VertexAiModel-tUy6j",
           "node": {
             "base_classes": [
               "LanguageModel",
@@ -6527,7 +6505,7 @@
             "frozen": false,
             "icon": "VertexAI",
             "legacy": false,
-            "lf_version": "1.8.2",
+            "lf_version": "1.9.0",
             "metadata": {
               "code_hash": "d9f75281d3fa",
               "dependencies": {
@@ -6615,7 +6593,7 @@
                 "fileTypes": [
                   "json"
                 ],
-                "file_path": "e67c0e3c-3892-4602-8bca-2784fd6e4133/aibm-492721-97fe04640c75.json",
+                "file_path": "",
                 "info": "JSON credentials file. Leave empty to fallback to environment variables",
                 "list": false,
                 "list_add_label": "Add More",
@@ -6901,9 +6879,9 @@
           "type": "VertexAiModel"
         },
         "dragging": false,
-        "id": "VertexAiModel-v4EkD",
+        "id": "VertexAiModel-tUy6j",
         "measured": {
-          "height": 541,
+          "height": 545,
           "width": 320
         },
         "position": {
@@ -6915,7 +6893,7 @@
       },
       {
         "data": {
-          "id": "ConditionalRouter-zJwFo",
+          "id": "ConditionalRouter-35Zfp",
           "node": {
             "base_classes": [
               "Message"
@@ -6941,7 +6919,7 @@
             "icon": "split",
             "last_updated": "2026-04-15T15:33:25.840Z",
             "legacy": false,
-            "lf_version": "1.8.2",
+            "lf_version": "1.9.0",
             "metadata": {
               "code_hash": "e92b1b243e5f",
               "dependencies": {
@@ -7231,7 +7209,7 @@
           "type": "ConditionalRouter"
         },
         "dragging": false,
-        "id": "ConditionalRouter-zJwFo",
+        "id": "ConditionalRouter-35Zfp",
         "measured": {
           "height": 431,
           "width": 320
@@ -7245,7 +7223,7 @@
       },
       {
         "data": {
-          "id": "ConditionalRouter-KfMlf",
+          "id": "ConditionalRouter-4CHIa",
           "node": {
             "base_classes": [
               "Message"
@@ -7271,7 +7249,7 @@
             "icon": "split",
             "last_updated": "2026-04-15T15:33:18.454Z",
             "legacy": false,
-            "lf_version": "1.8.2",
+            "lf_version": "1.9.0",
             "metadata": {
               "code_hash": "e92b1b243e5f",
               "dependencies": {
@@ -7561,7 +7539,7 @@
           "type": "ConditionalRouter"
         },
         "dragging": false,
-        "id": "ConditionalRouter-KfMlf",
+        "id": "ConditionalRouter-4CHIa",
         "measured": {
           "height": 431,
           "width": 320
@@ -7575,7 +7553,7 @@
       },
       {
         "data": {
-          "id": "Prompt Template-phcCQ",
+          "id": "Prompt Template-8KTNo",
           "node": {
             "base_classes": [
               "Message"
@@ -7591,7 +7569,7 @@
             "description": "Create a prompt template with dynamic variables.",
             "display_name": "Prompt Template",
             "documentation": "https://docs.langflow.org/components-prompts",
-            "edited": false,
+            "edited": true,
             "error": null,
             "field_order": [
               "template",
@@ -7605,7 +7583,7 @@
             "is_input": null,
             "is_output": null,
             "legacy": false,
-            "lf_version": "1.8.2",
+            "lf_version": "1.9.0",
             "metadata": {
               "code_hash": "5b3e6730923e",
               "dependencies": {
@@ -7782,7 +7760,7 @@
           "type": "Prompt Template"
         },
         "dragging": false,
-        "id": "Prompt Template-phcCQ",
+        "id": "Prompt Template-8KTNo",
         "measured": {
           "height": 429,
           "width": 320
@@ -7796,7 +7774,7 @@
       },
       {
         "data": {
-          "id": "VertexAiModel-CNKyj",
+          "id": "VertexAiModel-TaSSK",
           "node": {
             "base_classes": [
               "LanguageModel",
@@ -7827,7 +7805,7 @@
             "frozen": false,
             "icon": "VertexAI",
             "legacy": false,
-            "lf_version": "1.8.2",
+            "lf_version": "1.9.0",
             "metadata": {
               "code_hash": "d9f75281d3fa",
               "dependencies": {
@@ -7915,7 +7893,7 @@
                 "fileTypes": [
                   "json"
                 ],
-                "file_path": "e67c0e3c-3892-4602-8bca-2784fd6e4133/aibm-492721-97fe04640c75.json",
+                "file_path": "",
                 "info": "JSON credentials file. Leave empty to fallback to environment variables",
                 "list": false,
                 "list_add_label": "Add More",
@@ -8201,9 +8179,9 @@
           "type": "VertexAiModel"
         },
         "dragging": false,
-        "id": "VertexAiModel-CNKyj",
+        "id": "VertexAiModel-TaSSK",
         "measured": {
-          "height": 541,
+          "height": 545,
           "width": 320
         },
         "position": {
@@ -8215,7 +8193,7 @@
       },
       {
         "data": {
-          "id": "ChatOutput-ed6cc",
+          "id": "ChatOutput-pT8Yf",
           "node": {
             "base_classes": [
               "Message"
@@ -8226,7 +8204,7 @@
             "description": "Display a chat message in the Playground.",
             "display_name": "Resume output",
             "documentation": "https://docs.langflow.org/chat-input-and-output",
-            "edited": false,
+            "edited": true,
             "field_order": [
               "input_value",
               "should_store_message",
@@ -8240,7 +8218,7 @@
             "frozen": false,
             "icon": "MessagesSquare",
             "legacy": false,
-            "lf_version": "1.8.2",
+            "lf_version": "1.9.0",
             "metadata": {
               "code_hash": "8c87e536cca4",
               "dependencies": {
@@ -8499,7 +8477,7 @@
           "type": "ChatOutput"
         },
         "dragging": false,
-        "id": "ChatOutput-ed6cc",
+        "id": "ChatOutput-pT8Yf",
         "measured": {
           "height": 52,
           "width": 192
@@ -8513,17 +8491,17 @@
       }
     ],
     "viewport": {
-      "x": 1242.4115215039014,
-      "y": 564.6991882786073,
-      "zoom": 0.43147711775270103
+      "x": 961.8055908371755,
+      "y": 421.16307110684556,
+      "zoom": 0.2769745883686794
     }
   },
   "description": "",
   "endpoint_name": null,
-  "id": "deb8a350-c52f-4ca7-af16-b187f72b2507",
+  "id": "dd5237db-e1d1-4612-a1ee-e845c53985be",
   "is_component": false,
   "last_tested_version": "1.8.2",
   "locked": false,
-  "name": "ReachRight",
+  "name": "ReachRight final (without API keys)",
   "tags": []
 }

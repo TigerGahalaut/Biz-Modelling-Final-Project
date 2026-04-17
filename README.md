@@ -144,7 +144,6 @@ GKE automatically load balances traffic across replicas.
 
 - API keys are **not included** in the Langflow JSON — you must add them after importing
 - Files uploaded through the frontend are stored temporarily in the Langflow pod — they will be lost if the pod restarts
-- The app is served over HTTP (not HTTPS) — clipboard API is unavailable in this mode; the "Open in Email App" button uses a `mailto:` fallback instead
 
 ---
 

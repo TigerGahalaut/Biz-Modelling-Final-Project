@@ -119,8 +119,8 @@ Navigate to the frontend's external IP in your browser.
 
 ## Usage
 
-1. **Upload resume** — PDF, DOCX, or TXT
-2. **Describe your target** — e.g. `"Hiring manager at a cybersecurity startup in NYC"`
+1. **Upload resume** (PDF)
+2. **Describe your target** — e.g. `"ML Engineer"`
 3. **Click Generate Emails** — wait ~30-60 seconds
 4. **Review the email** — confidence score shown at the bottom
 5. **Accept or decline** — accept opens your mail app with subject + body pre-filled

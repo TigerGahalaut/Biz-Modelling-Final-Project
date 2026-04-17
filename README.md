@@ -2,6 +2,7 @@
 
 > AI-powered cold email generator. Upload your resume, describe who you want to reach, and get a personalised cold email with resume improvements in seconds.
 
+**Application at:** [http://34.28.173.84](http://34.28.173.84)
 
 ---
 

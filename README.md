@@ -4,6 +4,8 @@
 
 **Application at:** [http://34.28.173.84](http://34.28.173.84)
 
+**Demo video:** https://drive.google.com/file/d/1SV4dZxvN2laW9S9yIf2YgkLNcx4ZKytg/view?usp=drive_link
+
 ---
 
 ## What it does
